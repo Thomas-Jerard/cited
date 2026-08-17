@@ -35,7 +35,7 @@ The landing line "First reports are live for Austin" is true.
 
 ## What is blocked
 
-- **ChatGPT login.** Not in the reports.
+- **ChatGPT login.** Browser sign-in failed (phone-account conflict). An OpenAI API key is stored and works. It answers from model memory, not live ChatGPT search. Those names were not mixed into the live reports.
 - **Gemini.** Google pages captcha-blocked. Not in the reports.
 - **No public URL.** GitHub is not connected. `gh auth` is logged out.
 - **No email send.** We store the address. Queued copy says to check back with the same practice name.

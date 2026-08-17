@@ -1,0 +1,57 @@
+{
+  "engine": "chatgpt-api",
+  "scannedAt": "2026-08-17T19:05:35.347Z",
+  "notes": "Model memory via OpenAI API. Not chatgpt.com search. Do not treat as a live ChatGPT scan.",
+  "results": [
+    {
+      "query": "best dentist in Austin Texas",
+      "engine": "chatgpt-api",
+      "names": [
+        "Austin Dental",
+        "Westlake Hills Dental",
+        "South Austin Dental",
+        "Brush Dental",
+        "Zuniga Family Dentistry",
+        "The Dental Studio of Austin",
+        "Austin Smile Dentistry",
+        "Lakeway Dental",
+        "North Austin Dental",
+        "Barton Springs Dental"
+      ],
+      "notes": "OpenAI chat completions API (gpt-4o-mini). Not a live ChatGPT web search."
+    },
+    {
+      "query": "best cosmetic dentist Austin TX",
+      "engine": "chatgpt-api",
+      "names": [
+        "Austin Cosmetic Dentistry",
+        "Westlake Hills Dental",
+        "The Dental Studio of Austin",
+        "Austin Smile Team",
+        "Lakeway Cosmetic Dentistry"
+      ],
+      "notes": "OpenAI chat completions API (gpt-4o-mini). Not a live ChatGPT web search."
+    },
+    {
+      "query": "emergency dentist Austin TX",
+      "engine": "chatgpt-api",
+      "names": [
+        "Austin Emergency Dental",
+        "Emergency Dental Care of Austin",
+        "Austin Dental Emergency",
+        "Hour Emergency Dental Care"
+      ],
+      "notes": "OpenAI chat completions API (gpt-4o-mini). Not a live ChatGPT web search."
+    },
+    {
+      "query": "family dentist South Lamar Austin",
+      "engine": "chatgpt-api",
+      "names": [
+        "South Lamar Family Dentistry",
+        "Lamar Family Dental",
+        "South Austin Family Dentistry"
+      ],
+      "notes": "OpenAI chat completions API (gpt-4o-mini). Not a live ChatGPT web search."
+    }
+  ]
+}
