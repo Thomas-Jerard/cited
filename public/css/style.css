@@ -1,0 +1,335 @@
+:root {
+  --bg: #f1ebe1;
+  --paper: #f7f3ec;
+  --ink: #1a1714;
+  --ink-soft: #3f3a35;
+  --muted: #6f6860;
+  --line: #d4cbbe;
+  --accent: #c5341b;
+  --accent-deep: #9d2814;
+  --accent-soft: #f3d6cf;
+  --ok: #1f6b3a;
+  --no: #c5341b;
+  --shadow: 0 18px 40px rgba(40, 28, 16, 0.06);
+  --serif: "Fraunces", "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
+  --sans: "IBM Plex Sans", "IBM Plex Sans Fallback", "Segoe UI", sans-serif;
+  --max: 40rem;
+}
+
+* { box-sizing: border-box; }
+
+html { background: var(--bg); }
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  color: var(--ink);
+  background:
+    linear-gradient(180deg, rgba(197, 52, 27, 0.95) 0 3px, transparent 3px),
+    var(--bg);
+  font-family: var(--sans);
+  font-size: 1.05rem;
+  line-height: 1.55;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+a { color: var(--accent); }
+a:hover { color: var(--accent-deep); }
+
+::selection {
+  background: var(--accent);
+  color: #fff8f5;
+}
+
+.frame {
+  width: min(46rem, calc(100% - 2rem));
+  margin: 0 auto;
+  padding: 1.5rem 0 3rem;
+}
+
+.site-header,
+.site-footer {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.site-header {
+  padding-bottom: 1.25rem;
+  border-bottom: 1px solid var(--line);
+}
+
+.wordmark {
+  color: var(--ink);
+  text-decoration: none;
+  font-family: var(--serif);
+  font-size: 1.35rem;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+}
+
+.wordmark sup {
+  color: var(--accent);
+  font-size: 0.62em;
+  font-weight: 500;
+  margin-left: 0.12em;
+}
+
+.header-meta,
+.site-footer p,
+.proof,
+.muted,
+.form-note,
+.report-city {
+  color: var(--muted);
+}
+
+.header-meta,
+.eyebrow,
+.n,
+.mention-label,
+.chip,
+.field label {
+  font-size: 0.78rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+
+.eyebrow {
+  margin: 2.4rem 0 0.8rem;
+  color: var(--accent);
+}
+
+h1 {
+  margin: 0 0 0.85rem;
+  font-family: var(--serif);
+  font-size: clamp(2.15rem, 6vw, 3.35rem);
+  font-weight: 500;
+  line-height: 1.08;
+  letter-spacing: -0.03em;
+}
+
+h2 {
+  margin: 0 0 0.75rem;
+  font-family: var(--serif);
+  font-size: 1.55rem;
+  font-weight: 500;
+}
+
+h3 {
+  margin: 0 0 0.2rem;
+  font-size: 1.02rem;
+  font-weight: 600;
+}
+
+.subhead {
+  margin: 0 0 1.75rem;
+  max-width: 34rem;
+  color: var(--ink-soft);
+  font-size: 1.12rem;
+}
+
+.intake {
+  display: grid;
+  gap: 0.9rem;
+  padding: 1.15rem 1.15rem 1.2rem;
+  background: var(--paper);
+  border: 1px solid var(--line);
+  box-shadow: var(--shadow);
+}
+
+.field { display: grid; gap: 0.35rem; }
+
+.field label { color: var(--muted); }
+
+input {
+  width: 100%;
+  padding: 0.72rem 0.8rem;
+  border: 1px solid #c9bfb2;
+  background: #fffdf9;
+  color: var(--ink);
+  font: inherit;
+  border-radius: 2px;
+}
+
+input:focus {
+  outline: 2px solid var(--accent);
+  outline-offset: 1px;
+}
+
+.field-locked input {
+  background: #efe8dc;
+  color: var(--ink-soft);
+  border-style: dashed;
+  cursor: default;
+}
+
+button {
+  appearance: none;
+  border: 0;
+  background: var(--accent);
+  color: #fff8f5;
+  font: inherit;
+  font-weight: 600;
+  padding: 0.85rem 1rem;
+  cursor: pointer;
+  border-radius: 2px;
+}
+
+button:hover { background: var(--accent-deep); }
+button:disabled { opacity: 0.6; cursor: wait; }
+
+.form-note { min-height: 1.3em; margin: 0; font-size: 0.95rem; }
+.form-note.is-error { color: var(--accent); }
+
+.proof {
+  margin: 1rem 0 0;
+  font-size: 0.95rem;
+}
+
+.panel {
+  margin-top: 2.75rem;
+  padding-top: 1.75rem;
+  border-top: 1px solid var(--line);
+}
+
+.gets {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 1.15rem;
+}
+
+.gets li {
+  display: grid;
+  grid-template-columns: 2.4rem 1fr;
+  gap: 0.85rem;
+  align-items: start;
+}
+
+.n { color: var(--accent); padding-top: 0.2rem; }
+
+.gets p,
+.honesty p,
+.means p {
+  margin: 0;
+  color: var(--ink-soft);
+}
+
+.honesty {
+  margin-top: 2.5rem;
+  padding: 1.3rem 0 0;
+  border-top: 1px solid var(--line);
+}
+
+.site-footer {
+  margin-top: 3rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--line);
+  font-size: 0.95rem;
+}
+
+.report-city { margin: 0 0 1.4rem; }
+
+.report-root { display: grid; gap: 1.25rem; }
+
+.mention {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 1rem 1.1rem;
+  background: var(--paper);
+  border: 1px solid var(--line);
+}
+
+.mention-value {
+  font-family: var(--serif);
+  font-size: 1.8rem;
+  font-weight: 500;
+}
+
+.mention-value.yes { color: var(--ok); }
+.mention-value.no { color: var(--no); }
+.mention-value.queued { color: var(--ink-soft); }
+
+.block h2 { margin-bottom: 0.55rem; }
+
+.list {
+  margin: 0;
+  padding-left: 1.15rem;
+  color: var(--ink-soft);
+}
+
+.list li + li { margin-top: 0.35rem; }
+
+.gate {
+  position: relative;
+}
+
+.blurred {
+  filter: blur(7px);
+  user-select: none;
+  pointer-events: none;
+}
+
+.gate-card {
+  position: relative;
+  margin-top: -4.5rem;
+  padding: 1.15rem;
+  background: var(--paper);
+  border: 1px solid var(--line);
+  box-shadow: var(--shadow);
+  z-index: 1;
+}
+
+.gate-card p { margin: 0 0 0.9rem; }
+
+.queued-note {
+  padding: 1.1rem 1.15rem;
+  background: #f6ead3;
+  border: 1px solid #e2c48a;
+}
+
+.queued-note p { margin: 0; color: var(--ink-soft); }
+
+.empty-line {
+  color: var(--muted);
+  font-style: italic;
+}
+
+@media (max-width: 640px) {
+  body { font-size: 1rem; }
+  .frame { width: min(46rem, calc(100% - 1.4rem)); }
+  .intake { padding: 1rem; }
+  .mention { flex-direction: column; gap: 0.25rem; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * { transition: none !important; }
+}
+
+.bars { display: grid; gap: 0.45rem; }
+.bars i {
+  display: block;
+  height: 0.7rem;
+  background: #d8cfc2;
+  border-radius: 1px;
+}
+.bars i:nth-child(2) { width: 78%; }
+.bars i:nth-child(3) { width: 64%; }
+
+.header-meta a,
+.proof a {
+  color: inherit;
+  text-decoration: underline;
+  text-underline-offset: 0.18em;
+}
+.header-meta a:hover,
+.proof a:hover {
+  color: var(--accent);
+}

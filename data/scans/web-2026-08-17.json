@@ -1,0 +1,107 @@
+[
+  {
+    "query": "best dentist in Austin Texas",
+    "engine": "gemini",
+    "url": "https://www.google.com/search?q=best+dentist+in+Austin+Texas",
+    "names": [],
+    "notes": "Live Gemini / Google AI Overview not retrieved. WebFetch of the Google results page returned a captcha / unusual-traffic block (JS required). No public Gemini share URL for this query. This is not a live Gemini scan."
+  },
+  {
+    "query": "best cosmetic dentist Austin TX",
+    "engine": "gemini",
+    "url": "https://www.google.com/search?q=best+cosmetic+dentist+Austin+TX",
+    "names": [],
+    "notes": "Live Gemini / Google AI Overview not retrieved. Same captcha / bot-check block as the generic query. No public Gemini transcript. This is not a live Gemini scan."
+  },
+  {
+    "query": "emergency dentist Austin TX",
+    "engine": "gemini",
+    "url": "https://www.google.com/search?q=emergency+dentist+Austin+TX",
+    "names": [],
+    "notes": "Live Gemini / Google AI Overview not retrieved. Same captcha / bot-check block. No public Gemini transcript. This is not a live Gemini scan."
+  },
+  {
+    "query": "best dentist in Austin Texas",
+    "engine": "published-third-party",
+    "url": "https://localpicks.ai/best/dentists/austin-tx",
+    "names": [
+      "Enamel Dentistry",
+      "Walden Dental",
+      "North Austin Dentistry"
+    ],
+    "notes": "localpicks.ai page last updated May 13, 2026. They say they asked ChatGPT, Perplexity, and Google AI Overviews 6 Austin patient questions (new dentist, same-day emergency, Invisalign consult). They explicitly write: Enamel Dentistry is the most-cited practice across those three engines (cited in 5 of 6). Walden Dental 'get pulled into 2 of 6 of our buyer-prompt results for best general dentist Austin.' North Austin Dentistry has 'AI visibility is moderate (1 of 6 buyer prompts)'  -  they do not say which prompt. Their ranked top 10 also includes practices they do not attribute to AI citations; those are omitted here. Not a live ChatGPT or Gemini scan."
+  },
+  {
+    "query": "best cosmetic dentist Austin TX",
+    "engine": "published-third-party",
+    "url": "https://localpicks.ai/best/dentists/austin-tx",
+    "names": [
+      "Austin Dental Spa",
+      "Westlake Hills Dentistry"
+    ],
+    "notes": "Same localpicks.ai page. They explicitly write Austin Dental Spa 'show up in 2 of 6 of our AI buyer prompts for cosmetic queries specifically.' They write Westlake Hills Dentistry was 'Cited by Perplexity for cosmetic dentist Austin and CEREC same-day crown 78746 specifically'  -  Perplexity, not Gemini/ChatGPT. They do not publish a full cosmetic shortlist from ChatGPT or Gemini. Not a live ChatGPT or Gemini scan."
+  },
+  {
+    "query": "emergency dentist Austin TX",
+    "engine": "published-third-party",
+    "url": "https://localpicks.ai/best/dentists/austin-tx",
+    "names": [],
+    "notes": "Same localpicks.ai page says their 6-question set includes a same-day emergency prompt, but the published writeup does not name which practices the AIs returned for emergency. Enamel is 'cited in 5 of 6' overall, which may include emergency, but they do not say so. No emergency practice names recorded."
+  },
+  {
+    "query": "best dentist in Austin Texas",
+    "engine": "published-third-party",
+    "url": "https://www.linkedin.com/posts/habitualai_we-asked-chatgpt-and-gemini-the-6-questions-activity-7488928356986458113-kLR-",
+    "names": [],
+    "notes": "Habitual AI LinkedIn post (about 2026-07-31). They say they asked ChatGPT and Gemini 6 patient questions about Austin dentists (12 answers total) and the two assistants named 34 different practices with little overlap. The public post does not list any practice names. Not a live ChatGPT or Gemini scan."
+  },
+  {
+    "query": "best cosmetic dentist Austin TX",
+    "engine": "published-third-party",
+    "url": "https://www.linkedin.com/posts/habitualai_we-asked-chatgpt-and-gemini-the-6-questions-activity-7488928356986458113-kLR-",
+    "names": [],
+    "notes": "Same Habitual AI post. They claim both AIs independently agreed on the same cosmetic shortlist, but they do not publish those names. No practice names recorded."
+  },
+  {
+    "query": "emergency dentist Austin TX",
+    "engine": "published-third-party",
+    "url": "https://www.linkedin.com/posts/habitualai_we-asked-chatgpt-and-gemini-the-6-questions-activity-7488928356986458113-kLR-",
+    "names": [],
+    "notes": "Same Habitual AI post. They claim both AIs independently agreed on the same emergency pick, but they do not publish that name. No practice names recorded."
+  },
+  {
+    "query": "best dentist in Austin Texas",
+    "engine": "published-third-party",
+    "url": "https://www.facebook.com/groups/272222028777665/posts/896928832973645/",
+    "names": [],
+    "notes": "Facebook group post matching the Habitual AI writeup (12 ChatGPT + Gemini answers; 34 practices named on generic questions). Public fetch hit a login wall. Search snippets repeat the 34-practices claim and do not list names. No practice names recorded."
+  },
+  {
+    "query": "best dentist in Austin Texas",
+    "engine": "published-third-party",
+    "url": "https://tryanswered.com/aeo/dental-in-austin",
+    "names": [],
+    "notes": "Answered. AEO page for dental in Austin (updated July 2026). Describes how ChatGPT, Perplexity, Claude, and Gemini handle Austin dental queries. Does not name any Austin practices."
+  },
+  {
+    "query": "best dentist in Austin Texas",
+    "engine": "published-third-party",
+    "url": "https://www.signaldigital.ai/austin-ai-search-statistics",
+    "names": [],
+    "notes": "Signal Digital 'Austin AI Search Statistics 2026' (Jan-Mar 2026 audits of 200+ local businesses including dental). Reports industry scores only. Does not name any dental practices."
+  },
+  {
+    "query": "best dentist in Austin Texas",
+    "engine": "published-third-party",
+    "url": "https://getanswerspot.com",
+    "names": [],
+    "notes": "Habitual AI Answerspot landing page. Uses placeholder names (Cedar & Main Dental, Northside Family Dental, Lakeview Smiles Studio) in a mock UI. Those are not Austin practices and were not recorded. Page says the product is not built yet. No real ChatGPT or Gemini Austin names."
+  },
+  {
+    "query": "best dentist in Austin Texas",
+    "engine": "published-third-party",
+    "url": "https://www.reddit.com/r/Austin/search/?q=dentist%20ChatGPT%20OR%20Gemini",
+    "names": [],
+    "notes": "Reddit search (WebSearch for site:reddit.com/r/Austin and site:old.reddit.com plus ChatGPT/Gemini/AI-recommended dentist) returned no matching threads. No Reddit quote recorded."
+  }
+]

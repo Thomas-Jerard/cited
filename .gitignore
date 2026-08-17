@@ -1,0 +1,10 @@
+.env
+.env.*
+node_modules/
+*.tmp
+agents/jobs/*.json
+!agents/jobs/.gitkeep
+data/waitlist.json
+data/queue.json
+data/backups/
+cited-*.png

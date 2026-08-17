@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Cited. Does ChatGPT recommend your practice?</title>
+  <meta name="description" content="Free AI visibility report for Austin dentists. Type the practice name. See if AI search mentions you.">
+  <meta name="theme-color" content="#F1EBE1">
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,600;1,9..144,500&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+  <div class="frame">
+    <header class="site-header">
+      <a class="wordmark" href="/">Cited<sup>1</sup></a>
+      <p class="header-meta"><a href="/directory.html">Live reports</a></p>
+    </header>
+
+    <main>
+      <section class="hero">
+        <p class="eyebrow">AI search report</p>
+        <h1>Does ChatGPT recommend your practice?</h1>
+        <p class="subhead">Free report for Austin dentists. Type the name. See if AI search mentions you when people ask for a dentist here, and who it names instead.</p>
+
+        <form id="waitlist-form" class="intake" novalidate>
+          <div class="field">
+            <label for="business">Practice name</label>
+            <input id="business" name="business" type="text" autocomplete="organization" required maxlength="160" placeholder="e.g. the name on the door">
+          </div>
+          <div class="field">
+            <label for="email">Email</label>
+            <input id="email" name="email" type="email" autocomplete="email" required maxlength="254" placeholder="you@practice.com">
+          </div>
+          <div class="field field-locked">
+            <label for="city">City</label>
+            <input id="city" name="city" type="text" value="Austin" readonly tabindex="-1">
+          </div>
+          <button type="submit" id="submit-btn">Get the report</button>
+          <p class="form-note" id="form-status" role="status" aria-live="polite"></p>
+        </form>
+
+        <p class="proof"><a href="/directory.html">First reports are live for Austin.</a></p>
+      </section>
+
+      <section class="panel" aria-labelledby="get-heading">
+        <h2 id="get-heading">What you get</h2>
+        <ol class="gets">
+          <li>
+            <span class="n">01</span>
+            <div>
+              <h3>Are you mentioned</h3>
+              <p>Yes or no, from the models we actually ran. First pass is Perplexity.</p>
+            </div>
+          </li>
+          <li>
+            <span class="n">02</span>
+            <div>
+              <h3>Who is</h3>
+              <p>The practices the models name when they skip you.</p>
+            </div>
+          </li>
+          <li>
+            <span class="n">03</span>
+            <div>
+              <h3>What people ask</h3>
+              <p>The questions we actually ran. No invented queries.</p>
+            </div>
+          </li>
+        </ol>
+      </section>
+
+      <section class="honesty">
+        <h2>One job</h2>
+        <p>Cited does this report. Not a suite. Not a dashboard. Not a marketing platform. If we do not have a live scan for your practice yet, we queue it. Check back on this page with the same practice name.</p>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <p>Cited. Austin dentists.</p>
+    </footer>
+  </div>
+  <script src="/js/main.js"></script>
+</body>
+</html>

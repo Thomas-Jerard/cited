@@ -1,0 +1,96 @@
+{
+  "engine": "Perplexity",
+  "scannedAt": "2026-08-17T05:38:00Z",
+  "results": [
+    {
+      "query": "best dentist in Austin Texas",
+      "engine": "Perplexity",
+      "answerBody": [
+        "The Local Dentist",
+        "Toothbar",
+        "ATX Family Dental"
+      ],
+      "placesPanel": [
+        "The Local Dentist",
+        "Toothbar",
+        "ATX Family Dental",
+        "High Point Dentistry",
+        "Lucent Dentistry",
+        "Swish Dental Downtown",
+        "Greenbelt Dental Health",
+        "Breeze Dental",
+        "Enamel Dentistry Saltillo (East Austin)",
+        "Lady Bird Dental"
+      ]
+    },
+    {
+      "query": "best cosmetic dentist Austin TX",
+      "engine": "Perplexity",
+      "answerBody": [
+        "Austin Dental Spa",
+        "Austin Cosmetic Dentistry by Tejas Patel DDS",
+        "Toothbar",
+        "Downtown Dental Design",
+        "Authentic Smiles",
+        "Glint Dental Studio Austin"
+      ],
+      "placesPanel": [
+        "KoLa Family & Cosmetic Dentistry",
+        "Swish Dental Downtown",
+        "Barton Oaks Dental Group",
+        "Smile 360",
+        "Lady Bird Dental"
+      ]
+    },
+    {
+      "query": "emergency dentist Austin TX",
+      "engine": "Perplexity",
+      "answerBody": [
+        "Emergency Dental Austin",
+        "Magnolia Family Dentistry",
+        "Emergency Dentist of Austin",
+        "North Austin Dentist (Dr. Logan Miller)",
+        "Legend Dental & Orthodontics",
+        "Highland West Dental Care",
+        "South Austin Dental Associates",
+        "Swish Dental East",
+        "Smile Haus Austin",
+        "Toothbar",
+        "Lucent Dentistry",
+        "Lady Bird Dental",
+        "Swish Dental Downtown",
+        "Breeze Dental"
+      ],
+      "placesPanel": [
+        "Avenue Dental of South Austin",
+        "Aloha Dental",
+        "High Point Dentistry",
+        "Barton Oaks Dental Group"
+      ]
+    },
+    {
+      "query": "family dentist South Lamar Austin",
+      "engine": "Perplexity",
+      "answerBody": [
+        "Ideal Dental South Lamar",
+        "Little House Dentistry",
+        "Breeze Dental – South Lamar",
+        "Greenleaf Dental (South Lamar)",
+        "South Austin Dentist",
+        "Magnolia Family Dentistry",
+        "ATX Family Dental"
+      ],
+      "sponsoredSnippet": [
+        "South Austin Family Dental"
+      ],
+      "placesPanel": [
+        "Austin Primary Dental",
+        "Blunn Creek Family Dentistry",
+        "High Point Dentistry",
+        "Daybreak Dental",
+        "Dentique: Leila Moghadam DMD",
+        "Airway Health Austin"
+      ]
+    }
+  ]
+}

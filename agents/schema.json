@@ -1,0 +1,82 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://cited.local/agents/schema.json",
+  "title": "Cited finished report row",
+  "description": "One scanned practice. mentionedInstead and sources.names may only contain names that actually appeared. Never invent names.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "business",
+    "city",
+    "mentioned",
+    "queries",
+    "mentionedInstead",
+    "sources",
+    "scannedAt"
+  ],
+  "properties": {
+    "business": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Practice name as queued or scanned. Do not invent a different name."
+    },
+    "city": {
+      "type": "string",
+      "const": "Austin"
+    },
+    "mentioned": {
+      "type": "boolean",
+      "description": "True only if a source name fuzzy-matches business."
+    },
+    "queries": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "description": "Patient questions that were actually run."
+    },
+    "mentionedInstead": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "description": "Unique other practice names that actually appeared. Empty if none appeared."
+    },
+    "sources": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["query", "engine", "names"],
+        "properties": {
+          "query": {
+            "type": "string",
+            "minLength": 1
+          },
+          "engine": {
+            "type": "string",
+            "minLength": 1,
+            "description": "perplexity, chatgpt, or gemini — whichever actually produced the names."
+          },
+          "names": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "description": "Practice-like names shown for this query. Empty array if none were shown. Never invent."
+          }
+        }
+      }
+    },
+    "scannedAt": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "whatThisMeans": {
+      "type": "string",
+      "description": "Optional honest note. Omit to let the report page write one."
+    }
+  }
+}

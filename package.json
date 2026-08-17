@@ -1,0 +1,15 @@
+{
+  "name": "cited",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "AI visibility report for Austin dentists",
+  "scripts": {
+    "start": "node server.mjs",
+    "scan": "node agents/scan-queue.mjs",
+    "apply": "node agents/apply-scan.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

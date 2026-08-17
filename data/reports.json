@@ -1,0 +1,2285 @@
+[
+  {
+    "business": "The Local Dentist",
+    "normalized": "local dentist",
+    "city": "Austin",
+    "mentioned": true,
+    "queries": [
+      "best dentist in Austin Texas",
+      "best cosmetic dentist Austin TX",
+      "emergency dentist Austin TX",
+      "family dentist South Lamar Austin"
+    ],
+    "mentionedInstead": [
+      "Toothbar",
+      "ATX Family Dental",
+      "High Point Dentistry",
+      "Lucent Dentistry",
+      "Swish Dental Downtown",
+      "Greenbelt Dental Health",
+      "Breeze Dental",
+      "Enamel Dentistry"
+    ],
+    "sources": [
+      {
+        "query": "best dentist in Austin Texas",
+        "engine": "Perplexity",
+        "names": [
+          "The Local Dentist",
+          "Toothbar",
+          "ATX Family Dental",
+          "High Point Dentistry",
+          "Lucent Dentistry",
+          "Swish Dental Downtown",
+          "Greenbelt Dental Health",
+          "Breeze Dental",
+          "Enamel Dentistry Saltillo (East Austin)",
+          "Lady Bird Dental"
+        ]
+      }
+    ],
+    "scannedAt": "2026-08-17T05:38:00Z",
+    "whatThisMeans": "Perplexity named The Local Dentist in the answer body and places panel on the generic best-dentist question; ChatGPT was not run, so this report is Perplexity only."
+  },
+  {
+    "business": "Toothbar",
+    "normalized": "toothbar",
+    "city": "Austin",
+    "mentioned": true,
+    "queries": [
+      "best dentist in Austin Texas",
+      "best cosmetic dentist Austin TX",
+      "emergency dentist Austin TX",
+      "family dentist South Lamar Austin"
+    ],
+    "mentionedInstead": [
+      "The Local Dentist",
+      "ATX Family Dental",
+      "High Point Dentistry",
+      "Lucent Dentistry",
+      "Swish Dental Downtown",
+      "Greenbelt Dental Health",
+      "Breeze Dental",
+      "Enamel Dentistry"
+    ],
+    "sources": [
+      {
+        "query": "best dentist in Austin Texas",
+        "engine": "Perplexity",
+        "names": [
+          "The Local Dentist",
+          "Toothbar",
+          "ATX Family Dental",
+          "High Point Dentistry",
+          "Lucent Dentistry",
+          "Swish Dental Downtown",
+          "Greenbelt Dental Health",
+          "Breeze Dental",
+          "Enamel Dentistry Saltillo (East Austin)",
+          "Lady Bird Dental"
+        ]
+      },
+      {
+        "query": "best cosmetic dentist Austin TX",
+        "engine": "Perplexity",
+        "names": [
+          "Austin Dental Spa",
+          "Austin Cosmetic Dentistry by Tejas Patel DDS",
+          "Toothbar",
+          "Downtown Dental Design",
+          "Authentic Smiles",
+          "Glint Dental Studio Austin",
+          "KoLa Family & Cosmetic Dentistry",
+          "Swish Dental Downtown",
+          "Barton Oaks Dental Group",
+          "Smile 360",
+          "Lady Bird Dental"
+        ]
+      },
+      {
+        "query": "emergency dentist Austin TX",
+        "engine": "Perplexity",
+        "names": [
+          "Emergency Dental Austin",
+          "Magnolia Family Dentistry",
+          "Emergency Dentist of Austin",
+          "North Austin Dentist (Dr. Logan Miller)",
+          "Legend Dental & Orthodontics",
+          "Highland West Dental Care",
+          "South Austin Dental Associates",
+          "Swish Dental East",
+          "Smile Haus Austin",
+          "Toothbar",
+          "Lucent Dentistry",
+          "Lady Bird Dental",
+          "Swish Dental Downtown",
+          "Breeze Dental",
+          "Avenue Dental of South Austin",
+          "Aloha Dental",
+          "High Point Dentistry",
+          "Barton Oaks Dental Group"
+        ]
+      }
+    ],
+    "scannedAt": "2026-08-17T05:38:00Z",
+    "whatThisMeans": "Perplexity named Toothbar in the answer body and places panel on the generic best-dentist question, the answer body on the cosmetic question, and the answer body on the emergency question; ChatGPT was not run, so this report is Perplexity only."
+  },
+  {
+    "business": "ATX Family Dental",
+    "normalized": "atx family dental",
+    "city": "Austin",
+    "mentioned": true,
+    "queries": [
+      "best dentist in Austin Texas",
+      "best cosmetic dentist Austin TX",
+      "emergency dentist Austin TX",
+      "family dentist South Lamar Austin"
+    ],
+    "mentionedInstead": [
+      "The Local Dentist",
+      "Toothbar",
+      "High Point Dentistry",
+      "Lucent Dentistry",
+      "Swish Dental Downtown",
+      "Greenbelt Dental Health",
+      "Breeze Dental",
+      "Enamel Dentistry"
+    ],
+    "sources": [
+      {
+        "query": "best dentist in Austin Texas",
+        "engine": "Perplexity",
+        "names": [
+          "The Local Dentist",
+          "Toothbar",
+          "ATX Family Dental",
+          "High Point Dentistry",
+          "Lucent Dentistry",
+          "Swish Dental Downtown",
+          "Greenbelt Dental Health",
+          "Breeze Dental",
+          "Enamel Dentistry Saltillo (East Austin)",
+          "Lady Bird Dental"
+        ]
+      },
+      {
+        "query": "family dentist South Lamar Austin",
+        "engine": "Perplexity",
+        "names": [
+          "Ideal Dental South Lamar",
+          "Little House Dentistry",
+          "Breeze Dental – South Lamar",
+          "Greenleaf Dental (South Lamar)",
+          "South Austin Dentist",
+          "Magnolia Family Dentistry",
+          "ATX Family Dental",
+          "South Austin Family Dental",
+          "Austin Primary Dental",
+          "Blunn Creek Family Dentistry",
+          "High Point Dentistry",
+          "Daybreak Dental",
+          "Dentique: Leila Moghadam DMD",
+          "Airway Health Austin"
+        ]
+      }
+    ],
+    "scannedAt": "2026-08-17T05:38:00Z",
+    "whatThisMeans": "Perplexity named ATX Family Dental in the answer body and places panel on the generic best-dentist question and the answer body on the South Lamar family question; ChatGPT was not run, so this report is Perplexity only."
+  },
+  {
+    "business": "High Point Dentistry",
+    "normalized": "high point dentistry",
+    "city": "Austin",
+    "mentioned": true,
+    "queries": [
+      "best dentist in Austin Texas",
+      "best cosmetic dentist Austin TX",
+      "emergency dentist Austin TX",
+      "family dentist South Lamar Austin"
+    ],
+    "mentionedInstead": [
+      "The Local Dentist",
+      "Toothbar",
+      "ATX Family Dental",
+      "Lucent Dentistry",
+      "Swish Dental Downtown",
+      "Greenbelt Dental Health",
+      "Breeze Dental",
+      "Enamel Dentistry"
+    ],
+    "sources": [
+      {
+        "query": "best dentist in Austin Texas",
+        "engine": "Perplexity",
+        "names": [
+          "The Local Dentist",
+          "Toothbar",
+          "ATX Family Dental",
+          "High Point Dentistry",
+          "Lucent Dentistry",
+          "Swish Dental Downtown",
+          "Greenbelt Dental Health",
+          "Breeze Dental",
+          "Enamel Dentistry Saltillo (East Austin)",
+          "Lady Bird Dental"
+        ]
+      },
+      {
+        "query": "emergency dentist Austin TX",
+        "engine": "Perplexity",
+        "names": [
+          "Emergency Dental Austin",
+          "Magnolia Family Dentistry",
+          "Emergency Dentist of Austin",
+          "North Austin Dentist (Dr. Logan Miller)",
+          "Legend Dental & Orthodontics",
+          "Highland West Dental Care",
+          "South Austin Dental Associates",
+          "Swish Dental East",
+          "Smile Haus Austin",
+          "Toothbar",
+          "Lucent Dentistry",
+          "Lady Bird Dental",
+          "Swish Dental Downtown",
+          "Breeze Dental",
+          "Avenue Dental of South Austin",
+          "Aloha Dental",
+          "High Point Dentistry",
+          "Barton Oaks Dental Group"
+        ]
+      },
+      {
+        "query": "family dentist South Lamar Austin",
+        "engine": "Perplexity",
+        "names": [
+          "Ideal Dental South Lamar",
+          "Little House Dentistry",
+          "Breeze Dental – South Lamar",
+          "Greenleaf Dental (South Lamar)",
+          "South Austin Dentist",
+          "Magnolia Family Dentistry",
+          "ATX Family Dental",
+          "South Austin Family Dental",
+          "Austin Primary Dental",
+          "Blunn Creek Family Dentistry",
+          "High Point Dentistry",
+          "Daybreak Dental",
+          "Dentique: Leila Moghadam DMD",
+          "Airway Health Austin"
+        ]
+      }
+    ],
+    "scannedAt": "2026-08-17T05:38:00Z",
+    "whatThisMeans": "Perplexity named High Point Dentistry in the places panel on the generic best-dentist question, the places panel on the emergency question, and the places panel on the South Lamar family question; ChatGPT was not run, so this report is Perplexity only."
+  },
+  {
+    "business": "Lucent Dentistry",
+    "normalized": "lucent dentistry",
+    "city": "Austin",
+    "mentioned": true,
+    "queries": [
+      "best dentist in Austin Texas",
+      "best cosmetic dentist Austin TX",
+      "emergency dentist Austin TX",
+      "family dentist South Lamar Austin"
+    ],
+    "mentionedInstead": [
+      "The Local Dentist",
+      "Toothbar",
+      "ATX Family Dental",
+      "High Point Dentistry",
+      "Swish Dental Downtown",
+      "Greenbelt Dental Health",
+      "Breeze Dental",
+      "Enamel Dentistry"
+    ],
+    "sources": [
+      {
+        "query": "best dentist in Austin Texas",
+        "engine": "Perplexity",
+        "names": [
+          "The Local Dentist",
+          "Toothbar",
+          "ATX Family Dental",
+          "High Point Dentistry",
+          "Lucent Dentistry",
+          "Swish Dental Downtown",
+          "Greenbelt Dental Health",
+          "Breeze Dental",
+          "Enamel Dentistry Saltillo (East Austin)",
+          "Lady Bird Dental"
+        ]
+      },
+      {
+        "query": "emergency dentist Austin TX",
+        "engine": "Perplexity",
+        "names": [
+          "Emergency Dental Austin",
+          "Magnolia Family Dentistry",
+          "Emergency Dentist of Austin",
+          "North Austin Dentist (Dr. Logan Miller)",
+          "Legend Dental & Orthodontics",
+          "Highland West Dental Care",
+          "South Austin Dental Associates",
+          "Swish Dental East",
+          "Smile Haus Austin",
+          "Toothbar",
+          "Lucent Dentistry",
+          "Lady Bird Dental",
+          "Swish Dental Downtown",
+          "Breeze Dental",
+          "Avenue Dental of South Austin",
+          "Aloha Dental",
+          "High Point Dentistry",
+          "Barton Oaks Dental Group"
+        ]
+      }
+    ],
+    "scannedAt": "2026-08-17T05:38:00Z",
+    "whatThisMeans": "Perplexity named Lucent Dentistry in the places panel on the generic best-dentist question and the answer body on the emergency question; ChatGPT was not run, so this report is Perplexity only."
+  },
+  {
+    "business": "Swish Dental Downtown",
+    "normalized": "swish dental downtown",
+    "city": "Austin",
+    "mentioned": true,
+    "queries": [
+      "best dentist in Austin Texas",
+      "best cosmetic dentist Austin TX",
+      "emergency dentist Austin TX",
+      "family dentist South Lamar Austin"
+    ],
+    "mentionedInstead": [
+      "The Local Dentist",
+      "Toothbar",
+      "ATX Family Dental",
+      "High Point Dentistry",
+      "Lucent Dentistry",
+      "Greenbelt Dental Health",
+      "Breeze Dental",
+      "Enamel Dentistry"
+    ],
+    "sources": [
+      {
+        "query": "best dentist in Austin Texas",
+        "engine": "Perplexity",
+        "names": [
+          "The Local Dentist",
+          "Toothbar",
+          "ATX Family Dental",
+          "High Point Dentistry",
+          "Lucent Dentistry",
+          "Swish Dental Downtown",
+          "Greenbelt Dental Health",
+          "Breeze Dental",
+          "Enamel Dentistry Saltillo (East Austin)",
+          "Lady Bird Dental"
+        ]
+      },
+      {
+        "query": "best cosmetic dentist Austin TX",
+        "engine": "Perplexity",
+        "names": [
+          "Austin Dental Spa",
+          "Austin Cosmetic Dentistry by Tejas Patel DDS",
+          "Toothbar",
+          "Downtown Dental Design",
+          "Authentic Smiles",
+          "Glint Dental Studio Austin",
+          "KoLa Family & Cosmetic Dentistry",
+          "Swish Dental Downtown",
+          "Barton Oaks Dental Group",
+          "Smile 360",
+          "Lady Bird Dental"
+        ]
+      },
+      {
+        "query": "emergency dentist Austin TX",
+        "engine": "Perplexity",
+        "names": [
+          "Emergency Dental Austin",
+          "Magnolia Family Dentistry",
+          "Emergency Dentist of Austin",
+          "North Austin Dentist (Dr. Logan Miller)",
+          "Legend Dental & Orthodontics",
+          "Highland West Dental Care",
+          "South Austin Dental Associates",
+          "Swish Dental East",
+          "Smile Haus Austin",
+          "Toothbar",
+          "Lucent Dentistry",
+          "Lady Bird Dental",
+          "Swish Dental Downtown",
+          "Breeze Dental",
+          "Avenue Dental of South Austin",
+          "Aloha Dental",
+          "High Point Dentistry",
+          "Barton Oaks Dental Group"
+        ]
+      }
+    ],
+    "scannedAt": "2026-08-17T05:38:00Z",
+    "whatThisMeans": "Perplexity named Swish Dental Downtown in the places panel on the generic best-dentist question, the places panel on the cosmetic question, and the answer body on the emergency question; ChatGPT was not run, so this report is Perplexity only."
+  },
+  {
+    "business": "Greenbelt Dental Health",
+    "normalized": "greenbelt dental health",
+    "city": "Austin",
+    "mentioned": true,
+    "queries": [
+      "best dentist in Austin Texas",
+      "best cosmetic dentist Austin TX",
+      "emergency dentist Austin TX",
+      "family dentist South Lamar Austin"
+    ],
+    "mentionedInstead": [
+      "The Local Dentist",
+      "Toothbar",
+      "ATX Family Dental",
+      "High Point Dentistry",
+      "Lucent Dentistry",
+      "Swish Dental Downtown",
+      "Breeze Dental",
+      "Enamel Dentistry"
+    ],
+    "sources": [
+      {
+        "query": "best dentist in Austin Texas",
+        "engine": "Perplexity",
+        "names": [
+          "The Local Dentist",
+          "Toothbar",
+          "ATX Family Dental",
+          "High Point Dentistry",
+          "Lucent Dentistry",
+          "Swish Dental Downtown",
+          "Greenbelt Dental Health",
+          "Breeze Dental",
+          "Enamel Dentistry Saltillo (East Austin)",
+          "Lady Bird Dental"
+        ]
+      }
+    ],
+    "scannedAt": "2026-08-17T05:38:00Z",
+    "whatThisMeans": "Perplexity named Greenbelt Dental Health in the places panel on the generic best-dentist question; ChatGPT was not run, so this report is Perplexity only."
+  },
+  {
+    "business": "Breeze Dental",
+    "normalized": "breeze dental",
+    "city": "Austin",
+    "mentioned": true,
+    "queries": [
+      "best dentist in Austin Texas",
+      "best cosmetic dentist Austin TX",
+      "emergency dentist Austin TX",
+      "family dentist South Lamar Austin"
+    ],
+    "mentionedInstead": [
+      "The Local Dentist",
+      "Toothbar",
+      "ATX Family Dental",
+      "High Point Dentistry",
+      "Lucent Dentistry",
+      "Swish Dental Downtown",
+      "Greenbelt Dental Health",
+      "Enamel Dentistry"
+    ],
+    "sources": [
+      {
+        "query": "best dentist in Austin Texas",
+        "engine": "Perplexity",
+        "names": [
+          "The Local Dentist",
+          "Toothbar",
+          "ATX Family Dental",
+          "High Point Dentistry",
+          "Lucent Dentistry",
+          "Swish Dental Downtown",
+          "Greenbelt Dental Health",
+          "Breeze Dental",
+          "Enamel Dentistry Saltillo (East Austin)",
+          "Lady Bird Dental"
+        ]
+      },
+      {
+        "query": "emergency dentist Austin TX",
+        "engine": "Perplexity",
+        "names": [
+          "Emergency Dental Austin",
+          "Magnolia Family Dentistry",
+          "Emergency Dentist of Austin",
+          "North Austin Dentist (Dr. Logan Miller)",
+          "Legend Dental & Orthodontics",
+          "Highland West Dental Care",
+          "South Austin Dental Associates",
+          "Swish Dental East",
+          "Smile Haus Austin",
+          "Toothbar",
+          "Lucent Dentistry",
+          "Lady Bird Dental",
+          "Swish Dental Downtown",
+          "Breeze Dental",
+          "Avenue Dental of South Austin",
+          "Aloha Dental",
+          "High Point Dentistry",
+          "Barton Oaks Dental Group"
+        ]
+      },
+      {
+        "query": "family dentist South Lamar Austin",
+        "engine": "Perplexity",
+        "names": [
+          "Ideal Dental South Lamar",
+          "Little House Dentistry",
+          "Breeze Dental – South Lamar",
+          "Greenleaf Dental (South Lamar)",
+          "South Austin Dentist",
+          "Magnolia Family Dentistry",
+          "ATX Family Dental",
+          "South Austin Family Dental",
+          "Austin Primary Dental",
+          "Blunn Creek Family Dentistry",
+          "High Point Dentistry",
+          "Daybreak Dental",
+          "Dentique: Leila Moghadam DMD",
+          "Airway Health Austin"
+        ],
+        "note": "Appeared as Breeze Dental – South Lamar"
+      }
+    ],
+    "scannedAt": "2026-08-17T05:38:00Z",
+    "whatThisMeans": "Perplexity named Breeze Dental in the places panel on the generic best-dentist question, the answer body on the emergency question, and the answer body on the South Lamar family question as Breeze Dental – South Lamar; ChatGPT was not run, so this report is Perplexity only."
+  },
+  {
+    "business": "Enamel Dentistry",
+    "normalized": "enamel dentistry",
+    "city": "Austin",
+    "mentioned": true,
+    "queries": [
+      "best dentist in Austin Texas",
+      "best cosmetic dentist Austin TX",
+      "emergency dentist Austin TX",
+      "family dentist South Lamar Austin"
+    ],
+    "mentionedInstead": [
+      "The Local Dentist",
+      "Toothbar",
+      "ATX Family Dental",
+      "High Point Dentistry",
+      "Lucent Dentistry",
+      "Swish Dental Downtown",
+      "Greenbelt Dental Health",
+      "Breeze Dental"
+    ],
+    "sources": [
+      {
+        "query": "best dentist in Austin Texas",
+        "engine": "Perplexity",
+        "names": [
+          "The Local Dentist",
+          "Toothbar",
+          "ATX Family Dental",
+          "High Point Dentistry",
+          "Lucent Dentistry",
+          "Swish Dental Downtown",
+          "Greenbelt Dental Health",
+          "Breeze Dental",
+          "Enamel Dentistry Saltillo (East Austin)",
+          "Lady Bird Dental"
+        ],
+        "note": "Appeared as Enamel Dentistry Saltillo (East Austin)"
+      }
+    ],
+    "scannedAt": "2026-08-17T05:38:00Z",
+    "whatThisMeans": "Perplexity named Enamel Dentistry in the places panel on the generic best-dentist question as Enamel Dentistry Saltillo (East Austin); ChatGPT was not run, so this report is Perplexity only."
+  },
+  {
+    "business": "Lady Bird Dental",
+    "normalized": "lady bird dental",
+    "city": "Austin",
+    "mentioned": true,
+    "queries": [
+      "best dentist in Austin Texas",
+      "best cosmetic dentist Austin TX",
+      "emergency dentist Austin TX",
+      "family dentist South Lamar Austin"
+    ],
+    "mentionedInstead": [
+      "The Local Dentist",
+      "Toothbar",
+      "ATX Family Dental",
+      "High Point Dentistry",
+      "Lucent Dentistry",
+      "Swish Dental Downtown",
+      "Greenbelt Dental Health",
+      "Breeze Dental"
+    ],
+    "sources": [
+      {
+        "query": "best dentist in Austin Texas",
+        "engine": "Perplexity",
+        "names": [
+          "The Local Dentist",
+          "Toothbar",
+          "ATX Family Dental",
+          "High Point Dentistry",
+          "Lucent Dentistry",
+          "Swish Dental Downtown",
+          "Greenbelt Dental Health",
+          "Breeze Dental",
+          "Enamel Dentistry Saltillo (East Austin)",
+          "Lady Bird Dental"
+        ]
+      },
+      {
+        "query": "best cosmetic dentist Austin TX",
+        "engine": "Perplexity",
+        "names": [
+          "Austin Dental Spa",
+          "Austin Cosmetic Dentistry by Tejas Patel DDS",
+          "Toothbar",
+          "Downtown Dental Design",
+          "Authentic Smiles",
+          "Glint Dental Studio Austin",
+          "KoLa Family & Cosmetic Dentistry",
+          "Swish Dental Downtown",
+          "Barton Oaks Dental Group",
+          "Smile 360",
+          "Lady Bird Dental"
+        ]
+      },
+      {
+        "query": "emergency dentist Austin TX",
+        "engine": "Perplexity",
+        "names": [
+          "Emergency Dental Austin",
+          "Magnolia Family Dentistry",
+          "Emergency Dentist of Austin",
+          "North Austin Dentist (Dr. Logan Miller)",
+          "Legend Dental & Orthodontics",
+          "Highland West Dental Care",
+          "South Austin Dental Associates",
+          "Swish Dental East",
+          "Smile Haus Austin",
+          "Toothbar",
+          "Lucent Dentistry",
+          "Lady Bird Dental",
+          "Swish Dental Downtown",
+          "Breeze Dental",
+          "Avenue Dental of South Austin",
+          "Aloha Dental",
+          "High Point Dentistry",
+          "Barton Oaks Dental Group"
+        ]
+      }
+    ],
+    "scannedAt": "2026-08-17T05:38:00Z",
+    "whatThisMeans": "Perplexity named Lady Bird Dental in the places panel on the generic best-dentist question, the places panel on the cosmetic question, and the answer body on the emergency question; ChatGPT was not run, so this report is Perplexity only."
+  },
+  {
+    "business": "Austin Dental Spa",
+    "normalized": "austin dental spa",
+    "city": "Austin",
+    "mentioned": true,
+    "queries": [
+      "best dentist in Austin Texas",
+      "best cosmetic dentist Austin TX",
+      "emergency dentist Austin TX",
+      "family dentist South Lamar Austin"
+    ],
+    "mentionedInstead": [
+      "Austin Cosmetic Dentistry by Tejas Patel DDS",
+      "Toothbar",
+      "Downtown Dental Design",
+      "Authentic Smiles",
+      "Glint Dental Studio Austin",
+      "KoLa Family & Cosmetic Dentistry",
+      "Swish Dental Downtown",
+      "Barton Oaks Dental Group"
+    ],
+    "sources": [
+      {
+        "query": "best cosmetic dentist Austin TX",
+        "engine": "Perplexity",
+        "names": [
+          "Austin Dental Spa",
+          "Austin Cosmetic Dentistry by Tejas Patel DDS",
+          "Toothbar",
+          "Downtown Dental Design",
+          "Authentic Smiles",
+          "Glint Dental Studio Austin",
+          "KoLa Family & Cosmetic Dentistry",
+          "Swish Dental Downtown",
+          "Barton Oaks Dental Group",
+          "Smile 360",
+          "Lady Bird Dental"
+        ]
+      }
+    ],
+    "scannedAt": "2026-08-17T05:38:00Z",
+    "whatThisMeans": "Perplexity named Austin Dental Spa in the answer body on the cosmetic question; ChatGPT was not run, so this report is Perplexity only."
+  },
+  {
+    "business": "Austin Cosmetic Dentistry by Tejas Patel DDS",
+    "normalized": "austin cosmetic dentistry by tejas patel",
+    "city": "Austin",
+    "mentioned": true,
+    "queries": [
+      "best dentist in Austin Texas",
+      "best cosmetic dentist Austin TX",
+      "emergency dentist Austin TX",
+      "family dentist South Lamar Austin"
+    ],
+    "mentionedInstead": [
+      "Austin Dental Spa",
+      "Toothbar",
+      "Downtown Dental Design",
+      "Authentic Smiles",
+      "Glint Dental Studio Austin",
+      "KoLa Family & Cosmetic Dentistry",
+      "Swish Dental Downtown",
+      "Barton Oaks Dental Group"
+    ],
+    "sources": [
+      {
+        "query": "best cosmetic dentist Austin TX",
+        "engine": "Perplexity",
+        "names": [
+          "Austin Dental Spa",
+          "Austin Cosmetic Dentistry by Tejas Patel DDS",
+          "Toothbar",
+          "Downtown Dental Design",
+          "Authentic Smiles",
+          "Glint Dental Studio Austin",
+          "KoLa Family & Cosmetic Dentistry",
+          "Swish Dental Downtown",
+          "Barton Oaks Dental Group",
+          "Smile 360",
+          "Lady Bird Dental"
+        ]
+      }
+    ],
+    "scannedAt": "2026-08-17T05:38:00Z",
+    "whatThisMeans": "Perplexity named Austin Cosmetic Dentistry by Tejas Patel DDS in the answer body on the cosmetic question; ChatGPT was not run, so this report is Perplexity only."
+  },
+  {
+    "business": "Downtown Dental Design",
+    "normalized": "downtown dental design",
+    "city": "Austin",
+    "mentioned": true,
+    "queries": [
+      "best dentist in Austin Texas",
+      "best cosmetic dentist Austin TX",
+      "emergency dentist Austin TX",
+      "family dentist South Lamar Austin"
+    ],
+    "mentionedInstead": [
+      "Austin Dental Spa",
+      "Austin Cosmetic Dentistry by Tejas Patel DDS",
+      "Toothbar",
+      "Authentic Smiles",
+      "Glint Dental Studio Austin",
+      "KoLa Family & Cosmetic Dentistry",
+      "Swish Dental Downtown",
+      "Barton Oaks Dental Group"
+    ],
+    "sources": [
+      {
+        "query": "best cosmetic dentist Austin TX",
+        "engine": "Perplexity",
+        "names": [
+          "Austin Dental Spa",
+          "Austin Cosmetic Dentistry by Tejas Patel DDS",
+          "Toothbar",
+          "Downtown Dental Design",
+          "Authentic Smiles",
+          "Glint Dental Studio Austin",
+          "KoLa Family & Cosmetic Dentistry",
+          "Swish Dental Downtown",
+          "Barton Oaks Dental Group",
+          "Smile 360",
+          "Lady Bird Dental"
+        ]
+      }
+    ],
+    "scannedAt": "2026-08-17T05:38:00Z",
+    "whatThisMeans": "Perplexity named Downtown Dental Design in the answer body on the cosmetic question; ChatGPT was not run, so this report is Perplexity only."
+  },
+  {
+    "business": "Authentic Smiles",
+    "normalized": "authentic smiles",
+    "city": "Austin",
+    "mentioned": true,
+    "queries": [
+      "best dentist in Austin Texas",
+      "best cosmetic dentist Austin TX",
+      "emergency dentist Austin TX",
+      "family dentist South Lamar Austin"
+    ],
+    "mentionedInstead": [
+      "Austin Dental Spa",
+      "Austin Cosmetic Dentistry by Tejas Patel DDS",
+      "Toothbar",
+      "Downtown Dental Design",
+      "Glint Dental Studio Austin",
+      "KoLa Family & Cosmetic Dentistry",
+      "Swish Dental Downtown",
+      "Barton Oaks Dental Group"
+    ],
+    "sources": [
+      {
+        "query": "best cosmetic dentist Austin TX",
+        "engine": "Perplexity",
+        "names": [
+          "Austin Dental Spa",
+          "Austin Cosmetic Dentistry by Tejas Patel DDS",
+          "Toothbar",
+          "Downtown Dental Design",
+          "Authentic Smiles",
+          "Glint Dental Studio Austin",
+          "KoLa Family & Cosmetic Dentistry",
+          "Swish Dental Downtown",
+          "Barton Oaks Dental Group",
+          "Smile 360",
+          "Lady Bird Dental"
+        ]
+      }
+    ],
+    "scannedAt": "2026-08-17T05:38:00Z",
+    "whatThisMeans": "Perplexity named Authentic Smiles in the answer body on the cosmetic question; ChatGPT was not run, so this report is Perplexity only."
+  },
+  {
+    "business": "Glint Dental Studio Austin",
+    "normalized": "glint dental studio austin",
+    "city": "Austin",
+    "mentioned": true,
+    "queries": [
+      "best dentist in Austin Texas",
+      "best cosmetic dentist Austin TX",
+      "emergency dentist Austin TX",
+      "family dentist South Lamar Austin"
+    ],
+    "mentionedInstead": [
+      "Austin Dental Spa",
+      "Austin Cosmetic Dentistry by Tejas Patel DDS",
+      "Toothbar",
+      "Downtown Dental Design",
+      "Authentic Smiles",
+      "KoLa Family & Cosmetic Dentistry",
+      "Swish Dental Downtown",
+      "Barton Oaks Dental Group"
+    ],
+    "sources": [
+      {
+        "query": "best cosmetic dentist Austin TX",
+        "engine": "Perplexity",
+        "names": [
+          "Austin Dental Spa",
+          "Austin Cosmetic Dentistry by Tejas Patel DDS",
+          "Toothbar",
+          "Downtown Dental Design",
+          "Authentic Smiles",
+          "Glint Dental Studio Austin",
+          "KoLa Family & Cosmetic Dentistry",
+          "Swish Dental Downtown",
+          "Barton Oaks Dental Group",
+          "Smile 360",
+          "Lady Bird Dental"
+        ]
+      }
+    ],
+    "scannedAt": "2026-08-17T05:38:00Z",
+    "whatThisMeans": "Perplexity named Glint Dental Studio Austin in the answer body on the cosmetic question; ChatGPT was not run, so this report is Perplexity only."
+  },
+  {
+    "business": "KoLa Family & Cosmetic Dentistry",
+    "normalized": "kola family and cosmetic dentistry",
+    "city": "Austin",
+    "mentioned": true,
+    "queries": [
+      "best dentist in Austin Texas",
+      "best cosmetic dentist Austin TX",
+      "emergency dentist Austin TX",
+      "family dentist South Lamar Austin"
+    ],
+    "mentionedInstead": [
+      "Austin Dental Spa",
+      "Austin Cosmetic Dentistry by Tejas Patel DDS",
+      "Toothbar",
+      "Downtown Dental Design",
+      "Authentic Smiles",
+      "Glint Dental Studio Austin",
+      "Swish Dental Downtown",
+      "Barton Oaks Dental Group"
+    ],
+    "sources": [
+      {
+        "query": "best cosmetic dentist Austin TX",
+        "engine": "Perplexity",
+        "names": [
+          "Austin Dental Spa",
+          "Austin Cosmetic Dentistry by Tejas Patel DDS",
+          "Toothbar",
+          "Downtown Dental Design",
+          "Authentic Smiles",
+          "Glint Dental Studio Austin",
+          "KoLa Family & Cosmetic Dentistry",
+          "Swish Dental Downtown",
+          "Barton Oaks Dental Group",
+          "Smile 360",
+          "Lady Bird Dental"
+        ]
+      }
+    ],
+    "scannedAt": "2026-08-17T05:38:00Z",
+    "whatThisMeans": "Perplexity named KoLa Family & Cosmetic Dentistry in the places panel on the cosmetic question; ChatGPT was not run, so this report is Perplexity only."
+  },
+  {
+    "business": "Barton Oaks Dental Group",
+    "normalized": "barton oaks dental group",
+    "city": "Austin",
+    "mentioned": true,
+    "queries": [
+      "best dentist in Austin Texas",
+      "best cosmetic dentist Austin TX",
+      "emergency dentist Austin TX",
+      "family dentist South Lamar Austin"
+    ],
+    "mentionedInstead": [
+      "Austin Dental Spa",
+      "Austin Cosmetic Dentistry by Tejas Patel DDS",
+      "Toothbar",
+      "Downtown Dental Design",
+      "Authentic Smiles",
+      "Glint Dental Studio Austin",
+      "KoLa Family & Cosmetic Dentistry",
+      "Swish Dental Downtown"
+    ],
+    "sources": [
+      {
+        "query": "best cosmetic dentist Austin TX",
+        "engine": "Perplexity",
+        "names": [
+          "Austin Dental Spa",
+          "Austin Cosmetic Dentistry by Tejas Patel DDS",
+          "Toothbar",
+          "Downtown Dental Design",
+          "Authentic Smiles",
+          "Glint Dental Studio Austin",
+          "KoLa Family & Cosmetic Dentistry",
+          "Swish Dental Downtown",
+          "Barton Oaks Dental Group",
+          "Smile 360",
+          "Lady Bird Dental"
+        ]
+      },
+      {
+        "query": "emergency dentist Austin TX",
+        "engine": "Perplexity",
+        "names": [
+          "Emergency Dental Austin",
+          "Magnolia Family Dentistry",
+          "Emergency Dentist of Austin",
+          "North Austin Dentist (Dr. Logan Miller)",
+          "Legend Dental & Orthodontics",
+          "Highland West Dental Care",
+          "South Austin Dental Associates",
+          "Swish Dental East",
+          "Smile Haus Austin",
+          "Toothbar",
+          "Lucent Dentistry",
+          "Lady Bird Dental",
+          "Swish Dental Downtown",
+          "Breeze Dental",
+          "Avenue Dental of South Austin",
+          "Aloha Dental",
+          "High Point Dentistry",
+          "Barton Oaks Dental Group"
+        ]
+      }
+    ],
+    "scannedAt": "2026-08-17T05:38:00Z",
+    "whatThisMeans": "Perplexity named Barton Oaks Dental Group in the places panel on the cosmetic question and the places panel on the emergency question; ChatGPT was not run, so this report is Perplexity only."
+  },
+  {
+    "business": "Smile 360",
+    "normalized": "smile 360",
+    "city": "Austin",
+    "mentioned": true,
+    "queries": [
+      "best dentist in Austin Texas",
+      "best cosmetic dentist Austin TX",
+      "emergency dentist Austin TX",
+      "family dentist South Lamar Austin"
+    ],
+    "mentionedInstead": [
+      "Austin Dental Spa",
+      "Austin Cosmetic Dentistry by Tejas Patel DDS",
+      "Toothbar",
+      "Downtown Dental Design",
+      "Authentic Smiles",
+      "Glint Dental Studio Austin",
+      "KoLa Family & Cosmetic Dentistry",
+      "Swish Dental Downtown"
+    ],
+    "sources": [
+      {
+        "query": "best cosmetic dentist Austin TX",
+        "engine": "Perplexity",
+        "names": [
+          "Austin Dental Spa",
+          "Austin Cosmetic Dentistry by Tejas Patel DDS",
+          "Toothbar",
+          "Downtown Dental Design",
+          "Authentic Smiles",
+          "Glint Dental Studio Austin",
+          "KoLa Family & Cosmetic Dentistry",
+          "Swish Dental Downtown",
+          "Barton Oaks Dental Group",
+          "Smile 360",
+          "Lady Bird Dental"
+        ]
+      }
+    ],
+    "scannedAt": "2026-08-17T05:38:00Z",
+    "whatThisMeans": "Perplexity named Smile 360 in the places panel on the cosmetic question; ChatGPT was not run, so this report is Perplexity only."
+  },
+  {
+    "business": "Emergency Dental Austin",
+    "normalized": "emergency dental austin",
+    "city": "Austin",
+    "mentioned": true,
+    "queries": [
+      "best dentist in Austin Texas",
+      "best cosmetic dentist Austin TX",
+      "emergency dentist Austin TX",
+      "family dentist South Lamar Austin"
+    ],
+    "mentionedInstead": [
+      "Magnolia Family Dentistry",
+      "Emergency Dentist of Austin",
+      "North Austin Dentist",
+      "Legend Dental & Orthodontics",
+      "Highland West Dental Care",
+      "South Austin Dental Associates",
+      "Swish Dental East",
+      "Smile Haus Austin"
+    ],
+    "sources": [
+      {
+        "query": "emergency dentist Austin TX",
+        "engine": "Perplexity",
+        "names": [
+          "Emergency Dental Austin",
+          "Magnolia Family Dentistry",
+          "Emergency Dentist of Austin",
+          "North Austin Dentist (Dr. Logan Miller)",
+          "Legend Dental & Orthodontics",
+          "Highland West Dental Care",
+          "South Austin Dental Associates",
+          "Swish Dental East",
+          "Smile Haus Austin",
+          "Toothbar",
+          "Lucent Dentistry",
+          "Lady Bird Dental",
+          "Swish Dental Downtown",
+          "Breeze Dental",
+          "Avenue Dental of South Austin",
+          "Aloha Dental",
+          "High Point Dentistry",
+          "Barton Oaks Dental Group"
+        ]
+      }
+    ],
+    "scannedAt": "2026-08-17T05:38:00Z",
+    "whatThisMeans": "Perplexity named Emergency Dental Austin in the answer body on the emergency question; ChatGPT was not run, so this report is Perplexity only."
+  },
+  {
+    "business": "Magnolia Family Dentistry",
+    "normalized": "magnolia family dentistry",
+    "city": "Austin",
+    "mentioned": true,
+    "queries": [
+      "best dentist in Austin Texas",
+      "best cosmetic dentist Austin TX",
+      "emergency dentist Austin TX",
+      "family dentist South Lamar Austin"
+    ],
+    "mentionedInstead": [
+      "Emergency Dental Austin",
+      "Emergency Dentist of Austin",
+      "North Austin Dentist",
+      "Legend Dental & Orthodontics",
+      "Highland West Dental Care",
+      "South Austin Dental Associates",
+      "Swish Dental East",
+      "Smile Haus Austin"
+    ],
+    "sources": [
+      {
+        "query": "emergency dentist Austin TX",
+        "engine": "Perplexity",
+        "names": [
+          "Emergency Dental Austin",
+          "Magnolia Family Dentistry",
+          "Emergency Dentist of Austin",
+          "North Austin Dentist (Dr. Logan Miller)",
+          "Legend Dental & Orthodontics",
+          "Highland West Dental Care",
+          "South Austin Dental Associates",
+          "Swish Dental East",
+          "Smile Haus Austin",
+          "Toothbar",
+          "Lucent Dentistry",
+          "Lady Bird Dental",
+          "Swish Dental Downtown",
+          "Breeze Dental",
+          "Avenue Dental of South Austin",
+          "Aloha Dental",
+          "High Point Dentistry",
+          "Barton Oaks Dental Group"
+        ]
+      },
+      {
+        "query": "family dentist South Lamar Austin",
+        "engine": "Perplexity",
+        "names": [
+          "Ideal Dental South Lamar",
+          "Little House Dentistry",
+          "Breeze Dental – South Lamar",
+          "Greenleaf Dental (South Lamar)",
+          "South Austin Dentist",
+          "Magnolia Family Dentistry",
+          "ATX Family Dental",
+          "South Austin Family Dental",
+          "Austin Primary Dental",
+          "Blunn Creek Family Dentistry",
+          "High Point Dentistry",
+          "Daybreak Dental",
+          "Dentique: Leila Moghadam DMD",
+          "Airway Health Austin"
+        ]
+      }
+    ],
+    "scannedAt": "2026-08-17T05:38:00Z",
+    "whatThisMeans": "Perplexity named Magnolia Family Dentistry in the answer body on the emergency question and the answer body on the South Lamar family question; ChatGPT was not run, so this report is Perplexity only."
+  },
+  {
+    "business": "Emergency Dentist of Austin",
+    "normalized": "emergency dentist of austin",
+    "city": "Austin",
+    "mentioned": true,
+    "queries": [
+      "best dentist in Austin Texas",
+      "best cosmetic dentist Austin TX",
+      "emergency dentist Austin TX",
+      "family dentist South Lamar Austin"
+    ],
+    "mentionedInstead": [
+      "Emergency Dental Austin",
+      "Magnolia Family Dentistry",
+      "North Austin Dentist",
+      "Legend Dental & Orthodontics",
+      "Highland West Dental Care",
+      "South Austin Dental Associates",
+      "Swish Dental East",
+      "Smile Haus Austin"
+    ],
+    "sources": [
+      {
+        "query": "emergency dentist Austin TX",
+        "engine": "Perplexity",
+        "names": [
+          "Emergency Dental Austin",
+          "Magnolia Family Dentistry",
+          "Emergency Dentist of Austin",
+          "North Austin Dentist (Dr. Logan Miller)",
+          "Legend Dental & Orthodontics",
+          "Highland West Dental Care",
+          "South Austin Dental Associates",
+          "Swish Dental East",
+          "Smile Haus Austin",
+          "Toothbar",
+          "Lucent Dentistry",
+          "Lady Bird Dental",
+          "Swish Dental Downtown",
+          "Breeze Dental",
+          "Avenue Dental of South Austin",
+          "Aloha Dental",
+          "High Point Dentistry",
+          "Barton Oaks Dental Group"
+        ]
+      }
+    ],
+    "scannedAt": "2026-08-17T05:38:00Z",
+    "whatThisMeans": "Perplexity named Emergency Dentist of Austin in the answer body on the emergency question; ChatGPT was not run, so this report is Perplexity only."
+  },
+  {
+    "business": "North Austin Dentist",
+    "normalized": "north austin dentist",
+    "city": "Austin",
+    "mentioned": true,
+    "queries": [
+      "best dentist in Austin Texas",
+      "best cosmetic dentist Austin TX",
+      "emergency dentist Austin TX",
+      "family dentist South Lamar Austin"
+    ],
+    "mentionedInstead": [
+      "Emergency Dental Austin",
+      "Magnolia Family Dentistry",
+      "Emergency Dentist of Austin",
+      "Legend Dental & Orthodontics",
+      "Highland West Dental Care",
+      "South Austin Dental Associates",
+      "Swish Dental East",
+      "Smile Haus Austin"
+    ],
+    "sources": [
+      {
+        "query": "emergency dentist Austin TX",
+        "engine": "Perplexity",
+        "names": [
+          "Emergency Dental Austin",
+          "Magnolia Family Dentistry",
+          "Emergency Dentist of Austin",
+          "North Austin Dentist (Dr. Logan Miller)",
+          "Legend Dental & Orthodontics",
+          "Highland West Dental Care",
+          "South Austin Dental Associates",
+          "Swish Dental East",
+          "Smile Haus Austin",
+          "Toothbar",
+          "Lucent Dentistry",
+          "Lady Bird Dental",
+          "Swish Dental Downtown",
+          "Breeze Dental",
+          "Avenue Dental of South Austin",
+          "Aloha Dental",
+          "High Point Dentistry",
+          "Barton Oaks Dental Group"
+        ],
+        "note": "Appeared as North Austin Dentist (Dr. Logan Miller)"
+      }
+    ],
+    "scannedAt": "2026-08-17T05:38:00Z",
+    "whatThisMeans": "Perplexity named North Austin Dentist in the answer body on the emergency question as North Austin Dentist (Dr. Logan Miller); ChatGPT was not run, so this report is Perplexity only."
+  },
+  {
+    "business": "Legend Dental & Orthodontics",
+    "normalized": "legend dental and orthodontics",
+    "city": "Austin",
+    "mentioned": true,
+    "queries": [
+      "best dentist in Austin Texas",
+      "best cosmetic dentist Austin TX",
+      "emergency dentist Austin TX",
+      "family dentist South Lamar Austin"
+    ],
+    "mentionedInstead": [
+      "Emergency Dental Austin",
+      "Magnolia Family Dentistry",
+      "Emergency Dentist of Austin",
+      "North Austin Dentist",
+      "Highland West Dental Care",
+      "South Austin Dental Associates",
+      "Swish Dental East",
+      "Smile Haus Austin"
+    ],
+    "sources": [
+      {
+        "query": "emergency dentist Austin TX",
+        "engine": "Perplexity",
+        "names": [
+          "Emergency Dental Austin",
+          "Magnolia Family Dentistry",
+          "Emergency Dentist of Austin",
+          "North Austin Dentist (Dr. Logan Miller)",
+          "Legend Dental & Orthodontics",
+          "Highland West Dental Care",
+          "South Austin Dental Associates",
+          "Swish Dental East",
+          "Smile Haus Austin",
+          "Toothbar",
+          "Lucent Dentistry",
+          "Lady Bird Dental",
+          "Swish Dental Downtown",
+          "Breeze Dental",
+          "Avenue Dental of South Austin",
+          "Aloha Dental",
+          "High Point Dentistry",
+          "Barton Oaks Dental Group"
+        ]
+      }
+    ],
+    "scannedAt": "2026-08-17T05:38:00Z",
+    "whatThisMeans": "Perplexity named Legend Dental & Orthodontics in the answer body on the emergency question; ChatGPT was not run, so this report is Perplexity only."
+  },
+  {
+    "business": "Highland West Dental Care",
+    "normalized": "highland west dental care",
+    "city": "Austin",
+    "mentioned": true,
+    "queries": [
+      "best dentist in Austin Texas",
+      "best cosmetic dentist Austin TX",
+      "emergency dentist Austin TX",
+      "family dentist South Lamar Austin"
+    ],
+    "mentionedInstead": [
+      "Emergency Dental Austin",
+      "Magnolia Family Dentistry",
+      "Emergency Dentist of Austin",
+      "North Austin Dentist",
+      "Legend Dental & Orthodontics",
+      "South Austin Dental Associates",
+      "Swish Dental East",
+      "Smile Haus Austin"
+    ],
+    "sources": [
+      {
+        "query": "emergency dentist Austin TX",
+        "engine": "Perplexity",
+        "names": [
+          "Emergency Dental Austin",
+          "Magnolia Family Dentistry",
+          "Emergency Dentist of Austin",
+          "North Austin Dentist (Dr. Logan Miller)",
+          "Legend Dental & Orthodontics",
+          "Highland West Dental Care",
+          "South Austin Dental Associates",
+          "Swish Dental East",
+          "Smile Haus Austin",
+          "Toothbar",
+          "Lucent Dentistry",
+          "Lady Bird Dental",
+          "Swish Dental Downtown",
+          "Breeze Dental",
+          "Avenue Dental of South Austin",
+          "Aloha Dental",
+          "High Point Dentistry",
+          "Barton Oaks Dental Group"
+        ]
+      }
+    ],
+    "scannedAt": "2026-08-17T05:38:00Z",
+    "whatThisMeans": "Perplexity named Highland West Dental Care in the answer body on the emergency question; ChatGPT was not run, so this report is Perplexity only."
+  },
+  {
+    "business": "South Austin Dental Associates",
+    "normalized": "south austin dental associates",
+    "city": "Austin",
+    "mentioned": true,
+    "queries": [
+      "best dentist in Austin Texas",
+      "best cosmetic dentist Austin TX",
+      "emergency dentist Austin TX",
+      "family dentist South Lamar Austin"
+    ],
+    "mentionedInstead": [
+      "Emergency Dental Austin",
+      "Magnolia Family Dentistry",
+      "Emergency Dentist of Austin",
+      "North Austin Dentist",
+      "Legend Dental & Orthodontics",
+      "Highland West Dental Care",
+      "Swish Dental East",
+      "Smile Haus Austin"
+    ],
+    "sources": [
+      {
+        "query": "emergency dentist Austin TX",
+        "engine": "Perplexity",
+        "names": [
+          "Emergency Dental Austin",
+          "Magnolia Family Dentistry",
+          "Emergency Dentist of Austin",
+          "North Austin Dentist (Dr. Logan Miller)",
+          "Legend Dental & Orthodontics",
+          "Highland West Dental Care",
+          "South Austin Dental Associates",
+          "Swish Dental East",
+          "Smile Haus Austin",
+          "Toothbar",
+          "Lucent Dentistry",
+          "Lady Bird Dental",
+          "Swish Dental Downtown",
+          "Breeze Dental",
+          "Avenue Dental of South Austin",
+          "Aloha Dental",
+          "High Point Dentistry",
+          "Barton Oaks Dental Group"
+        ]
+      }
+    ],
+    "scannedAt": "2026-08-17T05:38:00Z",
+    "whatThisMeans": "Perplexity named South Austin Dental Associates in the answer body on the emergency question; ChatGPT was not run, so this report is Perplexity only."
+  },
+  {
+    "business": "Swish Dental East",
+    "normalized": "swish dental east",
+    "city": "Austin",
+    "mentioned": true,
+    "queries": [
+      "best dentist in Austin Texas",
+      "best cosmetic dentist Austin TX",
+      "emergency dentist Austin TX",
+      "family dentist South Lamar Austin"
+    ],
+    "mentionedInstead": [
+      "Emergency Dental Austin",
+      "Magnolia Family Dentistry",
+      "Emergency Dentist of Austin",
+      "North Austin Dentist",
+      "Legend Dental & Orthodontics",
+      "Highland West Dental Care",
+      "South Austin Dental Associates",
+      "Smile Haus Austin"
+    ],
+    "sources": [
+      {
+        "query": "emergency dentist Austin TX",
+        "engine": "Perplexity",
+        "names": [
+          "Emergency Dental Austin",
+          "Magnolia Family Dentistry",
+          "Emergency Dentist of Austin",
+          "North Austin Dentist (Dr. Logan Miller)",
+          "Legend Dental & Orthodontics",
+          "Highland West Dental Care",
+          "South Austin Dental Associates",
+          "Swish Dental East",
+          "Smile Haus Austin",
+          "Toothbar",
+          "Lucent Dentistry",
+          "Lady Bird Dental",
+          "Swish Dental Downtown",
+          "Breeze Dental",
+          "Avenue Dental of South Austin",
+          "Aloha Dental",
+          "High Point Dentistry",
+          "Barton Oaks Dental Group"
+        ]
+      }
+    ],
+    "scannedAt": "2026-08-17T05:38:00Z",
+    "whatThisMeans": "Perplexity named Swish Dental East in the answer body on the emergency question; ChatGPT was not run, so this report is Perplexity only."
+  },
+  {
+    "business": "Smile Haus Austin",
+    "normalized": "smile haus austin",
+    "city": "Austin",
+    "mentioned": true,
+    "queries": [
+      "best dentist in Austin Texas",
+      "best cosmetic dentist Austin TX",
+      "emergency dentist Austin TX",
+      "family dentist South Lamar Austin"
+    ],
+    "mentionedInstead": [
+      "Emergency Dental Austin",
+      "Magnolia Family Dentistry",
+      "Emergency Dentist of Austin",
+      "North Austin Dentist",
+      "Legend Dental & Orthodontics",
+      "Highland West Dental Care",
+      "South Austin Dental Associates",
+      "Swish Dental East"
+    ],
+    "sources": [
+      {
+        "query": "emergency dentist Austin TX",
+        "engine": "Perplexity",
+        "names": [
+          "Emergency Dental Austin",
+          "Magnolia Family Dentistry",
+          "Emergency Dentist of Austin",
+          "North Austin Dentist (Dr. Logan Miller)",
+          "Legend Dental & Orthodontics",
+          "Highland West Dental Care",
+          "South Austin Dental Associates",
+          "Swish Dental East",
+          "Smile Haus Austin",
+          "Toothbar",
+          "Lucent Dentistry",
+          "Lady Bird Dental",
+          "Swish Dental Downtown",
+          "Breeze Dental",
+          "Avenue Dental of South Austin",
+          "Aloha Dental",
+          "High Point Dentistry",
+          "Barton Oaks Dental Group"
+        ]
+      }
+    ],
+    "scannedAt": "2026-08-17T05:38:00Z",
+    "whatThisMeans": "Perplexity named Smile Haus Austin in the answer body on the emergency question; ChatGPT was not run, so this report is Perplexity only."
+  },
+  {
+    "business": "Avenue Dental of South Austin",
+    "normalized": "avenue dental of south austin",
+    "city": "Austin",
+    "mentioned": true,
+    "queries": [
+      "best dentist in Austin Texas",
+      "best cosmetic dentist Austin TX",
+      "emergency dentist Austin TX",
+      "family dentist South Lamar Austin"
+    ],
+    "mentionedInstead": [
+      "Emergency Dental Austin",
+      "Magnolia Family Dentistry",
+      "Emergency Dentist of Austin",
+      "North Austin Dentist",
+      "Legend Dental & Orthodontics",
+      "Highland West Dental Care",
+      "South Austin Dental Associates",
+      "Swish Dental East"
+    ],
+    "sources": [
+      {
+        "query": "emergency dentist Austin TX",
+        "engine": "Perplexity",
+        "names": [
+          "Emergency Dental Austin",
+          "Magnolia Family Dentistry",
+          "Emergency Dentist of Austin",
+          "North Austin Dentist (Dr. Logan Miller)",
+          "Legend Dental & Orthodontics",
+          "Highland West Dental Care",
+          "South Austin Dental Associates",
+          "Swish Dental East",
+          "Smile Haus Austin",
+          "Toothbar",
+          "Lucent Dentistry",
+          "Lady Bird Dental",
+          "Swish Dental Downtown",
+          "Breeze Dental",
+          "Avenue Dental of South Austin",
+          "Aloha Dental",
+          "High Point Dentistry",
+          "Barton Oaks Dental Group"
+        ]
+      }
+    ],
+    "scannedAt": "2026-08-17T05:38:00Z",
+    "whatThisMeans": "Perplexity named Avenue Dental of South Austin in the places panel on the emergency question; ChatGPT was not run, so this report is Perplexity only."
+  },
+  {
+    "business": "Aloha Dental",
+    "normalized": "aloha dental",
+    "city": "Austin",
+    "mentioned": true,
+    "queries": [
+      "best dentist in Austin Texas",
+      "best cosmetic dentist Austin TX",
+      "emergency dentist Austin TX",
+      "family dentist South Lamar Austin"
+    ],
+    "mentionedInstead": [
+      "Emergency Dental Austin",
+      "Magnolia Family Dentistry",
+      "Emergency Dentist of Austin",
+      "North Austin Dentist",
+      "Legend Dental & Orthodontics",
+      "Highland West Dental Care",
+      "South Austin Dental Associates",
+      "Swish Dental East"
+    ],
+    "sources": [
+      {
+        "query": "emergency dentist Austin TX",
+        "engine": "Perplexity",
+        "names": [
+          "Emergency Dental Austin",
+          "Magnolia Family Dentistry",
+          "Emergency Dentist of Austin",
+          "North Austin Dentist (Dr. Logan Miller)",
+          "Legend Dental & Orthodontics",
+          "Highland West Dental Care",
+          "South Austin Dental Associates",
+          "Swish Dental East",
+          "Smile Haus Austin",
+          "Toothbar",
+          "Lucent Dentistry",
+          "Lady Bird Dental",
+          "Swish Dental Downtown",
+          "Breeze Dental",
+          "Avenue Dental of South Austin",
+          "Aloha Dental",
+          "High Point Dentistry",
+          "Barton Oaks Dental Group"
+        ]
+      }
+    ],
+    "scannedAt": "2026-08-17T05:38:00Z",
+    "whatThisMeans": "Perplexity named Aloha Dental in the places panel on the emergency question; ChatGPT was not run, so this report is Perplexity only."
+  },
+  {
+    "business": "Ideal Dental South Lamar",
+    "normalized": "ideal dental south lamar",
+    "city": "Austin",
+    "mentioned": true,
+    "queries": [
+      "best dentist in Austin Texas",
+      "best cosmetic dentist Austin TX",
+      "emergency dentist Austin TX",
+      "family dentist South Lamar Austin"
+    ],
+    "mentionedInstead": [
+      "Little House Dentistry",
+      "Breeze Dental",
+      "Greenleaf Dental (South Lamar)",
+      "South Austin Dentist",
+      "Magnolia Family Dentistry",
+      "ATX Family Dental",
+      "South Austin Family Dental",
+      "Austin Primary Dental"
+    ],
+    "sources": [
+      {
+        "query": "family dentist South Lamar Austin",
+        "engine": "Perplexity",
+        "names": [
+          "Ideal Dental South Lamar",
+          "Little House Dentistry",
+          "Breeze Dental – South Lamar",
+          "Greenleaf Dental (South Lamar)",
+          "South Austin Dentist",
+          "Magnolia Family Dentistry",
+          "ATX Family Dental",
+          "South Austin Family Dental",
+          "Austin Primary Dental",
+          "Blunn Creek Family Dentistry",
+          "High Point Dentistry",
+          "Daybreak Dental",
+          "Dentique: Leila Moghadam DMD",
+          "Airway Health Austin"
+        ]
+      }
+    ],
+    "scannedAt": "2026-08-17T05:38:00Z",
+    "whatThisMeans": "Perplexity named Ideal Dental South Lamar in the answer body on the South Lamar family question; ChatGPT was not run, so this report is Perplexity only."
+  },
+  {
+    "business": "Little House Dentistry",
+    "normalized": "little house dentistry",
+    "city": "Austin",
+    "mentioned": true,
+    "queries": [
+      "best dentist in Austin Texas",
+      "best cosmetic dentist Austin TX",
+      "emergency dentist Austin TX",
+      "family dentist South Lamar Austin"
+    ],
+    "mentionedInstead": [
+      "Ideal Dental South Lamar",
+      "Breeze Dental",
+      "Greenleaf Dental (South Lamar)",
+      "South Austin Dentist",
+      "Magnolia Family Dentistry",
+      "ATX Family Dental",
+      "South Austin Family Dental",
+      "Austin Primary Dental"
+    ],
+    "sources": [
+      {
+        "query": "family dentist South Lamar Austin",
+        "engine": "Perplexity",
+        "names": [
+          "Ideal Dental South Lamar",
+          "Little House Dentistry",
+          "Breeze Dental – South Lamar",
+          "Greenleaf Dental (South Lamar)",
+          "South Austin Dentist",
+          "Magnolia Family Dentistry",
+          "ATX Family Dental",
+          "South Austin Family Dental",
+          "Austin Primary Dental",
+          "Blunn Creek Family Dentistry",
+          "High Point Dentistry",
+          "Daybreak Dental",
+          "Dentique: Leila Moghadam DMD",
+          "Airway Health Austin"
+        ]
+      }
+    ],
+    "scannedAt": "2026-08-17T05:38:00Z",
+    "whatThisMeans": "Perplexity named Little House Dentistry in the answer body on the South Lamar family question; ChatGPT was not run, so this report is Perplexity only."
+  },
+  {
+    "business": "Greenleaf Dental (South Lamar)",
+    "normalized": "greenleaf dental south lamar",
+    "city": "Austin",
+    "mentioned": true,
+    "queries": [
+      "best dentist in Austin Texas",
+      "best cosmetic dentist Austin TX",
+      "emergency dentist Austin TX",
+      "family dentist South Lamar Austin"
+    ],
+    "mentionedInstead": [
+      "Ideal Dental South Lamar",
+      "Little House Dentistry",
+      "Breeze Dental",
+      "South Austin Dentist",
+      "Magnolia Family Dentistry",
+      "ATX Family Dental",
+      "South Austin Family Dental",
+      "Austin Primary Dental"
+    ],
+    "sources": [
+      {
+        "query": "family dentist South Lamar Austin",
+        "engine": "Perplexity",
+        "names": [
+          "Ideal Dental South Lamar",
+          "Little House Dentistry",
+          "Breeze Dental – South Lamar",
+          "Greenleaf Dental (South Lamar)",
+          "South Austin Dentist",
+          "Magnolia Family Dentistry",
+          "ATX Family Dental",
+          "South Austin Family Dental",
+          "Austin Primary Dental",
+          "Blunn Creek Family Dentistry",
+          "High Point Dentistry",
+          "Daybreak Dental",
+          "Dentique: Leila Moghadam DMD",
+          "Airway Health Austin"
+        ]
+      }
+    ],
+    "scannedAt": "2026-08-17T05:38:00Z",
+    "whatThisMeans": "Perplexity named Greenleaf Dental (South Lamar) in the answer body on the South Lamar family question; ChatGPT was not run, so this report is Perplexity only."
+  },
+  {
+    "business": "South Austin Dentist",
+    "normalized": "south austin dentist",
+    "city": "Austin",
+    "mentioned": true,
+    "queries": [
+      "best dentist in Austin Texas",
+      "best cosmetic dentist Austin TX",
+      "emergency dentist Austin TX",
+      "family dentist South Lamar Austin"
+    ],
+    "mentionedInstead": [
+      "Ideal Dental South Lamar",
+      "Little House Dentistry",
+      "Breeze Dental",
+      "Greenleaf Dental (South Lamar)",
+      "Magnolia Family Dentistry",
+      "ATX Family Dental",
+      "South Austin Family Dental",
+      "Austin Primary Dental"
+    ],
+    "sources": [
+      {
+        "query": "family dentist South Lamar Austin",
+        "engine": "Perplexity",
+        "names": [
+          "Ideal Dental South Lamar",
+          "Little House Dentistry",
+          "Breeze Dental – South Lamar",
+          "Greenleaf Dental (South Lamar)",
+          "South Austin Dentist",
+          "Magnolia Family Dentistry",
+          "ATX Family Dental",
+          "South Austin Family Dental",
+          "Austin Primary Dental",
+          "Blunn Creek Family Dentistry",
+          "High Point Dentistry",
+          "Daybreak Dental",
+          "Dentique: Leila Moghadam DMD",
+          "Airway Health Austin"
+        ]
+      }
+    ],
+    "scannedAt": "2026-08-17T05:38:00Z",
+    "whatThisMeans": "Perplexity named South Austin Dentist in the answer body on the South Lamar family question; ChatGPT was not run, so this report is Perplexity only."
+  },
+  {
+    "business": "South Austin Family Dental",
+    "normalized": "south austin family dental",
+    "city": "Austin",
+    "mentioned": true,
+    "queries": [
+      "best dentist in Austin Texas",
+      "best cosmetic dentist Austin TX",
+      "emergency dentist Austin TX",
+      "family dentist South Lamar Austin"
+    ],
+    "mentionedInstead": [
+      "Ideal Dental South Lamar",
+      "Little House Dentistry",
+      "Breeze Dental",
+      "Greenleaf Dental (South Lamar)",
+      "South Austin Dentist",
+      "Magnolia Family Dentistry",
+      "ATX Family Dental",
+      "Austin Primary Dental"
+    ],
+    "sources": [
+      {
+        "query": "family dentist South Lamar Austin",
+        "engine": "Perplexity",
+        "names": [
+          "Ideal Dental South Lamar",
+          "Little House Dentistry",
+          "Breeze Dental – South Lamar",
+          "Greenleaf Dental (South Lamar)",
+          "South Austin Dentist",
+          "Magnolia Family Dentistry",
+          "ATX Family Dental",
+          "South Austin Family Dental",
+          "Austin Primary Dental",
+          "Blunn Creek Family Dentistry",
+          "High Point Dentistry",
+          "Daybreak Dental",
+          "Dentique: Leila Moghadam DMD",
+          "Airway Health Austin"
+        ]
+      }
+    ],
+    "scannedAt": "2026-08-17T05:38:00Z",
+    "whatThisMeans": "Perplexity named South Austin Family Dental in the sponsored snippet on the South Lamar family question; ChatGPT was not run, so this report is Perplexity only."
+  },
+  {
+    "business": "Austin Primary Dental",
+    "normalized": "austin primary dental",
+    "city": "Austin",
+    "mentioned": true,
+    "queries": [
+      "best dentist in Austin Texas",
+      "best cosmetic dentist Austin TX",
+      "emergency dentist Austin TX",
+      "family dentist South Lamar Austin"
+    ],
+    "mentionedInstead": [
+      "Ideal Dental South Lamar",
+      "Little House Dentistry",
+      "Breeze Dental",
+      "Greenleaf Dental (South Lamar)",
+      "South Austin Dentist",
+      "Magnolia Family Dentistry",
+      "ATX Family Dental",
+      "South Austin Family Dental"
+    ],
+    "sources": [
+      {
+        "query": "family dentist South Lamar Austin",
+        "engine": "Perplexity",
+        "names": [
+          "Ideal Dental South Lamar",
+          "Little House Dentistry",
+          "Breeze Dental – South Lamar",
+          "Greenleaf Dental (South Lamar)",
+          "South Austin Dentist",
+          "Magnolia Family Dentistry",
+          "ATX Family Dental",
+          "South Austin Family Dental",
+          "Austin Primary Dental",
+          "Blunn Creek Family Dentistry",
+          "High Point Dentistry",
+          "Daybreak Dental",
+          "Dentique: Leila Moghadam DMD",
+          "Airway Health Austin"
+        ]
+      }
+    ],
+    "scannedAt": "2026-08-17T05:38:00Z",
+    "whatThisMeans": "Perplexity named Austin Primary Dental in the places panel on the South Lamar family question; ChatGPT was not run, so this report is Perplexity only."
+  },
+  {
+    "business": "Blunn Creek Family Dentistry",
+    "normalized": "blunn creek family dentistry",
+    "city": "Austin",
+    "mentioned": true,
+    "queries": [
+      "best dentist in Austin Texas",
+      "best cosmetic dentist Austin TX",
+      "emergency dentist Austin TX",
+      "family dentist South Lamar Austin"
+    ],
+    "mentionedInstead": [
+      "Ideal Dental South Lamar",
+      "Little House Dentistry",
+      "Breeze Dental",
+      "Greenleaf Dental (South Lamar)",
+      "South Austin Dentist",
+      "Magnolia Family Dentistry",
+      "ATX Family Dental",
+      "South Austin Family Dental"
+    ],
+    "sources": [
+      {
+        "query": "family dentist South Lamar Austin",
+        "engine": "Perplexity",
+        "names": [
+          "Ideal Dental South Lamar",
+          "Little House Dentistry",
+          "Breeze Dental – South Lamar",
+          "Greenleaf Dental (South Lamar)",
+          "South Austin Dentist",
+          "Magnolia Family Dentistry",
+          "ATX Family Dental",
+          "South Austin Family Dental",
+          "Austin Primary Dental",
+          "Blunn Creek Family Dentistry",
+          "High Point Dentistry",
+          "Daybreak Dental",
+          "Dentique: Leila Moghadam DMD",
+          "Airway Health Austin"
+        ]
+      }
+    ],
+    "scannedAt": "2026-08-17T05:38:00Z",
+    "whatThisMeans": "Perplexity named Blunn Creek Family Dentistry in the places panel on the South Lamar family question; ChatGPT was not run, so this report is Perplexity only."
+  },
+  {
+    "business": "Daybreak Dental",
+    "normalized": "daybreak dental",
+    "city": "Austin",
+    "mentioned": true,
+    "queries": [
+      "best dentist in Austin Texas",
+      "best cosmetic dentist Austin TX",
+      "emergency dentist Austin TX",
+      "family dentist South Lamar Austin"
+    ],
+    "mentionedInstead": [
+      "Ideal Dental South Lamar",
+      "Little House Dentistry",
+      "Breeze Dental",
+      "Greenleaf Dental (South Lamar)",
+      "South Austin Dentist",
+      "Magnolia Family Dentistry",
+      "ATX Family Dental",
+      "South Austin Family Dental"
+    ],
+    "sources": [
+      {
+        "query": "family dentist South Lamar Austin",
+        "engine": "Perplexity",
+        "names": [
+          "Ideal Dental South Lamar",
+          "Little House Dentistry",
+          "Breeze Dental – South Lamar",
+          "Greenleaf Dental (South Lamar)",
+          "South Austin Dentist",
+          "Magnolia Family Dentistry",
+          "ATX Family Dental",
+          "South Austin Family Dental",
+          "Austin Primary Dental",
+          "Blunn Creek Family Dentistry",
+          "High Point Dentistry",
+          "Daybreak Dental",
+          "Dentique: Leila Moghadam DMD",
+          "Airway Health Austin"
+        ]
+      }
+    ],
+    "scannedAt": "2026-08-17T05:38:00Z",
+    "whatThisMeans": "Perplexity named Daybreak Dental in the places panel on the South Lamar family question; ChatGPT was not run, so this report is Perplexity only."
+  },
+  {
+    "business": "Dentique: Leila Moghadam DMD",
+    "normalized": "dentique leila moghadam",
+    "city": "Austin",
+    "mentioned": true,
+    "queries": [
+      "best dentist in Austin Texas",
+      "best cosmetic dentist Austin TX",
+      "emergency dentist Austin TX",
+      "family dentist South Lamar Austin"
+    ],
+    "mentionedInstead": [
+      "Ideal Dental South Lamar",
+      "Little House Dentistry",
+      "Breeze Dental",
+      "Greenleaf Dental (South Lamar)",
+      "South Austin Dentist",
+      "Magnolia Family Dentistry",
+      "ATX Family Dental",
+      "South Austin Family Dental"
+    ],
+    "sources": [
+      {
+        "query": "family dentist South Lamar Austin",
+        "engine": "Perplexity",
+        "names": [
+          "Ideal Dental South Lamar",
+          "Little House Dentistry",
+          "Breeze Dental – South Lamar",
+          "Greenleaf Dental (South Lamar)",
+          "South Austin Dentist",
+          "Magnolia Family Dentistry",
+          "ATX Family Dental",
+          "South Austin Family Dental",
+          "Austin Primary Dental",
+          "Blunn Creek Family Dentistry",
+          "High Point Dentistry",
+          "Daybreak Dental",
+          "Dentique: Leila Moghadam DMD",
+          "Airway Health Austin"
+        ]
+      }
+    ],
+    "scannedAt": "2026-08-17T05:38:00Z",
+    "whatThisMeans": "Perplexity named Dentique: Leila Moghadam DMD in the places panel on the South Lamar family question; ChatGPT was not run, so this report is Perplexity only."
+  },
+  {
+    "business": "Airway Health Austin",
+    "normalized": "airway health austin",
+    "city": "Austin",
+    "mentioned": true,
+    "queries": [
+      "best dentist in Austin Texas",
+      "best cosmetic dentist Austin TX",
+      "emergency dentist Austin TX",
+      "family dentist South Lamar Austin"
+    ],
+    "mentionedInstead": [
+      "Ideal Dental South Lamar",
+      "Little House Dentistry",
+      "Breeze Dental",
+      "Greenleaf Dental (South Lamar)",
+      "South Austin Dentist",
+      "Magnolia Family Dentistry",
+      "ATX Family Dental",
+      "South Austin Family Dental"
+    ],
+    "sources": [
+      {
+        "query": "family dentist South Lamar Austin",
+        "engine": "Perplexity",
+        "names": [
+          "Ideal Dental South Lamar",
+          "Little House Dentistry",
+          "Breeze Dental – South Lamar",
+          "Greenleaf Dental (South Lamar)",
+          "South Austin Dentist",
+          "Magnolia Family Dentistry",
+          "ATX Family Dental",
+          "South Austin Family Dental",
+          "Austin Primary Dental",
+          "Blunn Creek Family Dentistry",
+          "High Point Dentistry",
+          "Daybreak Dental",
+          "Dentique: Leila Moghadam DMD",
+          "Airway Health Austin"
+        ]
+      }
+    ],
+    "scannedAt": "2026-08-17T05:38:00Z",
+    "whatThisMeans": "Perplexity named Airway Health Austin in the places panel on the South Lamar family question; ChatGPT was not run, so this report is Perplexity only."
+  },
+  {
+    "business": "Westlake Hills Dentistry",
+    "normalized": "westlake hills dentistry",
+    "city": "Austin",
+    "mentioned": false,
+    "queries": [
+      "best dentist in Austin Texas",
+      "best cosmetic dentist Austin TX",
+      "emergency dentist Austin TX",
+      "family dentist South Lamar Austin"
+    ],
+    "mentionedInstead": [
+      "The Local Dentist",
+      "Toothbar",
+      "ATX Family Dental",
+      "High Point Dentistry",
+      "Lucent Dentistry",
+      "Swish Dental Downtown",
+      "Greenbelt Dental Health",
+      "Breeze Dental"
+    ],
+    "sources": [
+      {
+        "query": "best dentist in Austin Texas",
+        "engine": "Perplexity",
+        "names": [
+          "The Local Dentist",
+          "Toothbar",
+          "ATX Family Dental",
+          "High Point Dentistry",
+          "Lucent Dentistry",
+          "Swish Dental Downtown",
+          "Greenbelt Dental Health",
+          "Breeze Dental",
+          "Enamel Dentistry Saltillo (East Austin)",
+          "Lady Bird Dental"
+        ]
+      },
+      {
+        "query": "best cosmetic dentist Austin TX",
+        "engine": "Perplexity",
+        "names": [
+          "Austin Dental Spa",
+          "Austin Cosmetic Dentistry by Tejas Patel DDS",
+          "Toothbar",
+          "Downtown Dental Design",
+          "Authentic Smiles",
+          "Glint Dental Studio Austin",
+          "KoLa Family & Cosmetic Dentistry",
+          "Swish Dental Downtown",
+          "Barton Oaks Dental Group",
+          "Smile 360",
+          "Lady Bird Dental"
+        ]
+      },
+      {
+        "query": "emergency dentist Austin TX",
+        "engine": "Perplexity",
+        "names": [
+          "Emergency Dental Austin",
+          "Magnolia Family Dentistry",
+          "Emergency Dentist of Austin",
+          "North Austin Dentist (Dr. Logan Miller)",
+          "Legend Dental & Orthodontics",
+          "Highland West Dental Care",
+          "South Austin Dental Associates",
+          "Swish Dental East",
+          "Smile Haus Austin",
+          "Toothbar",
+          "Lucent Dentistry",
+          "Lady Bird Dental",
+          "Swish Dental Downtown",
+          "Breeze Dental",
+          "Avenue Dental of South Austin",
+          "Aloha Dental",
+          "High Point Dentistry",
+          "Barton Oaks Dental Group"
+        ]
+      },
+      {
+        "query": "family dentist South Lamar Austin",
+        "engine": "Perplexity",
+        "names": [
+          "Ideal Dental South Lamar",
+          "Little House Dentistry",
+          "Breeze Dental – South Lamar",
+          "Greenleaf Dental (South Lamar)",
+          "South Austin Dentist",
+          "Magnolia Family Dentistry",
+          "ATX Family Dental",
+          "South Austin Family Dental",
+          "Austin Primary Dental",
+          "Blunn Creek Family Dentistry",
+          "High Point Dentistry",
+          "Daybreak Dental",
+          "Dentique: Leila Moghadam DMD",
+          "Airway Health Austin"
+        ]
+      }
+    ],
+    "scannedAt": "2026-08-17T05:38:00Z",
+    "whatThisMeans": "We ran the four patient questions on Perplexity and Westlake Hills Dentistry was not named in the answers, places panels, or sponsored snippet; ChatGPT was not run, so this report is Perplexity only."
+  },
+  {
+    "business": "Walden Dental",
+    "normalized": "walden dental",
+    "city": "Austin",
+    "mentioned": false,
+    "queries": [
+      "best dentist in Austin Texas",
+      "best cosmetic dentist Austin TX",
+      "emergency dentist Austin TX",
+      "family dentist South Lamar Austin"
+    ],
+    "mentionedInstead": [
+      "The Local Dentist",
+      "Toothbar",
+      "ATX Family Dental",
+      "High Point Dentistry",
+      "Lucent Dentistry",
+      "Swish Dental Downtown",
+      "Greenbelt Dental Health",
+      "Breeze Dental"
+    ],
+    "sources": [
+      {
+        "query": "best dentist in Austin Texas",
+        "engine": "Perplexity",
+        "names": [
+          "The Local Dentist",
+          "Toothbar",
+          "ATX Family Dental",
+          "High Point Dentistry",
+          "Lucent Dentistry",
+          "Swish Dental Downtown",
+          "Greenbelt Dental Health",
+          "Breeze Dental",
+          "Enamel Dentistry Saltillo (East Austin)",
+          "Lady Bird Dental"
+        ]
+      },
+      {
+        "query": "best cosmetic dentist Austin TX",
+        "engine": "Perplexity",
+        "names": [
+          "Austin Dental Spa",
+          "Austin Cosmetic Dentistry by Tejas Patel DDS",
+          "Toothbar",
+          "Downtown Dental Design",
+          "Authentic Smiles",
+          "Glint Dental Studio Austin",
+          "KoLa Family & Cosmetic Dentistry",
+          "Swish Dental Downtown",
+          "Barton Oaks Dental Group",
+          "Smile 360",
+          "Lady Bird Dental"
+        ]
+      },
+      {
+        "query": "emergency dentist Austin TX",
+        "engine": "Perplexity",
+        "names": [
+          "Emergency Dental Austin",
+          "Magnolia Family Dentistry",
+          "Emergency Dentist of Austin",
+          "North Austin Dentist (Dr. Logan Miller)",
+          "Legend Dental & Orthodontics",
+          "Highland West Dental Care",
+          "South Austin Dental Associates",
+          "Swish Dental East",
+          "Smile Haus Austin",
+          "Toothbar",
+          "Lucent Dentistry",
+          "Lady Bird Dental",
+          "Swish Dental Downtown",
+          "Breeze Dental",
+          "Avenue Dental of South Austin",
+          "Aloha Dental",
+          "High Point Dentistry",
+          "Barton Oaks Dental Group"
+        ]
+      },
+      {
+        "query": "family dentist South Lamar Austin",
+        "engine": "Perplexity",
+        "names": [
+          "Ideal Dental South Lamar",
+          "Little House Dentistry",
+          "Breeze Dental – South Lamar",
+          "Greenleaf Dental (South Lamar)",
+          "South Austin Dentist",
+          "Magnolia Family Dentistry",
+          "ATX Family Dental",
+          "South Austin Family Dental",
+          "Austin Primary Dental",
+          "Blunn Creek Family Dentistry",
+          "High Point Dentistry",
+          "Daybreak Dental",
+          "Dentique: Leila Moghadam DMD",
+          "Airway Health Austin"
+        ]
+      }
+    ],
+    "scannedAt": "2026-08-17T05:38:00Z",
+    "whatThisMeans": "We ran the four patient questions on Perplexity and Walden Dental was not named in the answers, places panels, or sponsored snippet; ChatGPT was not run, so this report is Perplexity only.",
+    "derived": "unmentioned-from-existing-scan"
+  }
+]
